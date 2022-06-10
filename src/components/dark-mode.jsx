@@ -1,5 +1,5 @@
-import React from 'react'
-import { ThemeToggler } from 'gatsby-plugin-dark-mode'
+import { ThemeToggler } from 'gatsby-plugin-dark-mode';
+import React from 'react';
 
 // :TODO: If there are two instances of the DarkMode in a page(as the case in header.jsx), one instance will not work properly - first click will work, then it wont work.
 
@@ -7,6 +7,7 @@ class DarkMode extends React.Component {
   render() {
     return (
       <ThemeToggler>
+        // test commit
         {({ theme, toggleTheme }) => (
           <label className="theme-switcher">
             <input
