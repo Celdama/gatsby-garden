@@ -7,7 +7,6 @@ class DarkMode extends React.Component {
   render() {
     return (
       <ThemeToggler>
-        // test commit
         {({ theme, toggleTheme }) => (
           <label className="theme-switcher">
             <input
