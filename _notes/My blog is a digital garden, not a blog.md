@@ -1,6 +1,6 @@
 ---
 title: My blog is a digital garden, not a blog
-tags: ['digital-garden']
+tags: ['digital-garden', 'fleeting-notes']
 source: https://joelhooks.com/digital-garden
 ---
 

@@ -19,9 +19,11 @@ module.exports = {
         title: 'Tags',
         menu: [
           // Only one level depth, please.
-          { type: 'tag', item: 'knowledge' },
+          { type: 'tag', item: 'digital-garden' },
           // { type: 'tag', item: 'philosophy' },
           { type: 'tag', item: 'fleeting-notes' },
+          { type: 'tag', item: 'litterature-notes' },
+          { type: 'tag', item: 'permanent-notes' },
           // { type: 'tag', item: 'rationality' },
         ],
       },

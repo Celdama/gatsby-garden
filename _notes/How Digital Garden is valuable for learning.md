@@ -1,6 +1,6 @@
 ---
 title: How Digital Garden is valuable for learning
-tags: ['digital-garden']
+tags: ['digital-garden', 'permanent-notes']
 source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
@@ -14,6 +14,5 @@ As a beginer developer it's the best thing you can do to find your first job.
 When you learn more, you add to it. It's more connective.
 You focus on what you want to cultivate over time, for learning it's a good thing, because that encourage you to be more selective about what you want to learn
 
-[[The six patterns of Digital Garden#2 Continuous Growth]]
-<br/>
-[[The six patterns of Digital Garden#3 Imperfection Learning in Public]]
+[[Continuous Growth]]
+[[Imperfection & Learning in Public]]

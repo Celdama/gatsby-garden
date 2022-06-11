@@ -1,6 +1,6 @@
 ---
 title: Why create your own Digital Garden
-tags: ['digital-garden']
+tags: ['digital-garden', 'permanent-notes']
 source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
@@ -17,6 +17,6 @@ In an age of doom-scrolling and zoom fatigue, digital garden are optimistically 
 
 It's relaxing to sit down to the keyboard and do a little gardening ❤️
 
-[[The six patterns of Digital Garden#2 Continuous Growth]]<br/>
-[[The six patterns of Digital Garden#3 Imperfection Learning in Public]]<br/>
-[[The six patterns of Digital Garden#4 Playful Personal and Experimental]]
+[[Continuous Growth]]
+[[Imperfection & Learning in Public]]
+[[Playful, Personal and Experimental]]

@@ -1,6 +1,6 @@
 ---
 title: What is a Digital Garden
-tags: ['digital-garden']
+tags: ['digital-garden', 'permanent-notes']
 source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 

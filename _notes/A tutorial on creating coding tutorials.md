@@ -1,6 +1,6 @@
 ---
 title: A tutorial on creating coding tutorials
-tags: ['fleeting-note','tutorial']
+tags: ['fleeting-notes','tutorial']
 source: https://blog.logrocket.com/a-tutorial-on-creating-front-end-tutorials-2b13d8e94df9/
 ---
 
