@@ -1,14 +1,13 @@
 ---
-title: 'Décrire le problème'
-tags:
-	- test
-
+title: Décrire le problème
+description: This is the description
+tags: ['fleeting-notes', 'knowledge']
 ---
 
-Created: 2022-06-10 12:18
+<!-- Created: 2022-06-10 12:18
 Status: #status/status
 Type: #type/type
-Tags:
+Tags: -->
 
 ### Le problème
 

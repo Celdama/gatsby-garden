@@ -11,20 +11,20 @@ module.exports = {
       // Top Navbar items
       { type: 'page', item: '', title: 'Home' }, // Type can be 'page', 'note', 'tag', or 'link'
       { type: 'page', item: 'sitemap', title: 'Sitemap' },
-      { type: 'page', item: 'rss.xml', title: 'RSS' },
+      // { type: 'page', item: 'rss.xml', title: 'RSS' },
       { type: 'page', item: '', title: 'About' },
-      // {
-      //   type: 'page',
-      //   item: 'tags',
-      //   title: 'Tags',
-      //   menu: [
-      //     // Only one level depth, please.
-      //     { type: 'tag', item: 'zettelkasten' },
-      //     { type: 'tag', item: 'philosophy' },
-      //     { type: 'tag', item: 'psychology' },
-      //     { type: 'tag', item: 'rationality' },
-      //   ],
-      // },
+      {
+        type: 'page',
+        item: 'tags',
+        title: 'Tags',
+        menu: [
+          // Only one level depth, please.
+          { type: 'tag', item: 'knowledge' },
+          // { type: 'tag', item: 'philosophy' },
+          { type: 'tag', item: 'fleeting-notes' },
+          // { type: 'tag', item: 'rationality' },
+        ],
+      },
     ],
 
     // menu: [ // This is the Table of Contents that comes in the home page if a Home Note is not specified. It can be much longer than the header menu.
