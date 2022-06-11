@@ -1,7 +1,6 @@
 ---
 title: Digital Garden comes with great responsability
 tags: ['digital-garden', 'permanent-notes']
-source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
 This comes w/ great responsability. Publishing imperfect and early ideas requires that we make the status of our notes clear to readers.
@@ -19,3 +18,6 @@ You should include some indicator of how 'done' note's are:
 
 Ask the reader to allow you to be wrong, offer constructive criticism.
 ![digital-garden](digital-garden.png)
+
+#### Source
+[[Digital Gardens let you cultivate your own little bit of internet]]

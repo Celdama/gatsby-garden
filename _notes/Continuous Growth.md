@@ -1,7 +1,7 @@
 ---
 title: Continuous Growth
 tags: ['digital-garden', 'permanent-notes']
-source: [[Digital Gardens let you cultivate your own little bit of internet]]
+source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
 - gardens are never finished
@@ -11,3 +11,4 @@ source: [[Digital Gardens let you cultivate your own little bit of internet]]
 - what you publish is always open to revision & expansion, designed to evolve alongside your thought
 - you post ideas while they're still 'seedlings' and tend them regularly until they're fully grown.
 ![garden](gardentime.png)
+

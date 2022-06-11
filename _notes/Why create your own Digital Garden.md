@@ -1,7 +1,6 @@
 ---
 title: Why create your own Digital Garden
 tags: ['digital-garden', 'permanent-notes']
-source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
 You want to create an internet that is less about connections and feedback, we don't care about followers, more about quiet spaces. 
@@ -20,3 +19,6 @@ It's relaxing to sit down to the keyboard and do a little gardening ❤️
 [[Continuous Growth]]
 [[Imperfection & Learning in Public]]
 [[Playful, Personal and Experimental]]
+
+#### Source
+[[Digital Gardens let you cultivate your own little bit of internet]]

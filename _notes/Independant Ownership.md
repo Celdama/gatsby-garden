@@ -1,7 +1,7 @@
 ---
 title: Independant Ownership
 tags: ['digital-garden', 'permanent-notes']
-source: [[Digital Gardens let you cultivate your own little bit of internet]]
+source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
 - gardening is about claiming a small patch of the web for yours, one you fully own and control

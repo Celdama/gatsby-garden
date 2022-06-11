@@ -1,7 +1,6 @@
 ---
 title: Benefits of digital garden
 tags: ['permanent-notes', 'digital-garden', 'learning']
-source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
 Benefit of gardening are several. You're free from the pressure to get everything right immediately, you can test ideas, get feedback and revise your opinions like a good internet citizen.
@@ -20,3 +19,6 @@ Example digital gardens:
 - https://subpixel.space/
 - https://winnielim.org/
 - https://www.mentalnodes.com/
+
+#### Source
+[[Digital Gardens let you cultivate your own little bit of internet]]

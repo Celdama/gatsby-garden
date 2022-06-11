@@ -1,7 +1,7 @@
 ---
 title: Playful, Personal and Experimental
 tags: ['digital-garden', 'permanent-notes']
-source: [[Digital Gardens let you cultivate your own little bit of internet]]
+source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
 - are non-homogenous by nature

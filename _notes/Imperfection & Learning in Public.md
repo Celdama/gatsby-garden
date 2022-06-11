@@ -1,7 +1,7 @@
 ---
 title: Imperfection & Learning in Public
 tags: ['digital-garden', 'permanent-notes']
-source: [[Digital Gardens let you cultivate your own little bit of internet]]
+source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
 - they're imperfect by design, don't hide their rough edged or claim to be a permanent source of truth
