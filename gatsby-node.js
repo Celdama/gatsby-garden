@@ -43,7 +43,8 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     createNodeField({
       node,
       name: `title`,
-      value: title && title.replace(/\//g, ``),
+      // value: title.replace(/\//g, ``),
+      value: title,
     })
     createNodeField({
       node,
