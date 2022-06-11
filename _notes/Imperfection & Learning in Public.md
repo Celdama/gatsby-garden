@@ -11,4 +11,4 @@ source: [[Digital Gardens let you cultivate your own little bit of internet]]
 	- but more intentional and thoughtful than a Twitter feed
 	- perfect balance of chaos and cultivation
 - it enables you to learn in public (maybe one of the important things as beginner dev)
-- practice sharing what you learn as you're learning it, not a decade later once you're an 'expert'
+- practice sharing what you learn as you're learning it, not a decade later once you're an 'expert'[[Benefits of digital garden]]
