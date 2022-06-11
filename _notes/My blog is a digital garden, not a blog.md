@@ -1,8 +1,8 @@
-# My blog is a digital garden, not a blog
-Created: 2022-06-08 21:23
-Status: #status/fleetnotes 
-Type: #type/article 
-Tags: #tags/learning 
+---
+title: My blog is a digital garden, not a blog
+tags: ['digital-garden']
+source: https://joelhooks.com/digital-garden
+---
 
 - digital garden = metaphore for thinking about writing and creating that focuses less on the resulting 'showpiece' and more on the process, care, and craft it takes to get there
 - place where things grow
@@ -11,7 +11,3 @@ Tags: #tags/learning
 - we're all constantly bombarded with information but the challenge is absorbing it and applying it to the context of our lives and careers
 - organized with a touch of chaos around the edge
 - it's relaxing to sit down to the keyboard and do a little gardening ❤️
-
-
-## References
-1. https://joelhooks.com/digital-garden
