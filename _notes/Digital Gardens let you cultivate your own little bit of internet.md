@@ -96,3 +96,10 @@ The six patterns of gardening.
    It's low friction, gardening your thoughts becomes a daily ritual that only takes a small amount of effort. Over time, big things grow.
    It gives readers an insight into your writing and thinking process (very good thing for job research as a beginner).
    Gardens make their imperfection known to reader
+
+
+### Sources
+
+- https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/
+- https://maggieappleton.com/garden-history
+- https://www.gwern.net/About#confidence-tags
