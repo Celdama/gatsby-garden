@@ -9,7 +9,11 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   if (node.internal.type === `Mdx`) {
     const { createNodeField } = actions
 
-    const fileName = createFilePath({ node, getNode, basePath: `_notes` }).replace(/^\/(.+)\/$/, '$1')
+    const fileName = createFilePath({
+      node,
+      getNode,
+      basePath: `_notes`,
+    }).replace(/^\/(.+)\/$/, '$1')
     const title = node.frontmatter.title || fileName
     const slug = node.frontmatter.slug
       ? makeSlug(node.frontmatter.slug)
@@ -39,7 +43,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     createNodeField({
       node,
       name: `title`,
-      value: title.replace(/\//g, ``),
+      value: title && title.replace(/\//g, ``),
     })
     createNodeField({
       node,
@@ -91,7 +95,7 @@ exports.createPages = async ({ graphql, actions }) => {
     }
   `)
   const allNotes = _.get(result, `data.allMdx.edges`)
-  
+
   // Make a map of how notes link to other links. This is necessary to have back links and graph visualisation
   let refersTo = {} // refersTo['note title'] = ['note that "note title" linked to', 'another note that "note title" linked to', ...]
   let referredBy = {} // referredBy['note title'] = [{title: 'note that linked to "note title"' ...}, {title: 'another note that linked to "note title"', ...}, ...]
@@ -131,7 +135,7 @@ exports.createPages = async ({ graphql, actions }) => {
         title: title,
         excerpt: excerpt,
         slug: slug,
-        body: node.body
+        body: node.body,
       })
 
       linkageCache[title + '->' + linkTitle] = true
@@ -147,20 +151,23 @@ exports.createPages = async ({ graphql, actions }) => {
     // Add all notes linked to and from this note together.
     let linkedNoteTitles = []
     let linkedNotes = {}
-    if(refersTo[title]) linkedNoteTitles = refersTo[title]
-    if(referredBy[title]) linkedNoteTitles = linkedNoteTitles.concat(referredBy[title].map(note => note.title))
+    if (refersTo[title]) linkedNoteTitles = refersTo[title]
+    if (referredBy[title])
+      linkedNoteTitles = linkedNoteTitles.concat(
+        referredBy[title].map(note => note.title)
+      )
 
-    for(let j = 0; j < linkedNoteTitles.length; j++) {
+    for (let j = 0; j < linkedNoteTitles.length; j++) {
       let linkTitle = linkedNoteTitles[j]
 
-      if(allNotesByTitle[linkTitle] === undefined ) continue
+      if (allNotesByTitle[linkTitle] === undefined) continue
 
       // This reduces the page context size. Use only things used in note.jsx. Otherwise I would have just set it as `node`.
       // Only the linked(from and to the current note) needs to be in this.
       linkedNotes[linkTitle.toLowerCase()] = {
-        title: allNotesByTitle[linkTitle].title, 
-        slug: allNotesByTitle[linkTitle].fields.slug, 
-        body: allNotesByTitle[linkTitle].body 
+        title: allNotesByTitle[linkTitle].title,
+        slug: allNotesByTitle[linkTitle].fields.slug,
+        body: allNotesByTitle[linkTitle].body,
       }
     }
 
@@ -174,7 +181,7 @@ exports.createPages = async ({ graphql, actions }) => {
         slug: node.fields.slug,
         refersTo: refersTo[title] || [],
         referredBy: referredBy[title] || [],
-        linkedNotes: linkedNotes
+        linkedNotes: linkedNotes,
       },
     })
 
@@ -188,7 +195,8 @@ exports.createPages = async ({ graphql, actions }) => {
       })
     }
 
-    if(node.fields.slug != '/' + makeSlug(node.fields.fileName)) { // If there is a custom slug, setup a redirect.
+    if (node.fields.slug != '/' + makeSlug(node.fields.fileName)) {
+      // If there is a custom slug, setup a redirect.
       createRedirect({
         fromPath: `/${makeSlug(node.fields.fileName)}`,
         toPath: node.fields.slug,
@@ -204,7 +212,7 @@ exports.createPages = async ({ graphql, actions }) => {
     context: {
       allRefersTo: refersTo,
       allReferredBy: referredBy,
-      allNotes: allNotes
+      allNotes: allNotes,
     },
   })
 
@@ -278,7 +286,7 @@ exports.createPages = async ({ graphql, actions }) => {
         slug: node.fields.slug,
         refersTo: refersTo[title] || [],
         referredBy: referredBy[title] || [],
-        linkedNotes: []
+        linkedNotes: [],
       },
     })
   }
