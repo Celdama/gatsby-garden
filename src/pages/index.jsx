@@ -1,12 +1,14 @@
-import React from 'react'
-import { graphql, useStaticQuery, Link } from 'gatsby'
-import { MDXRenderer } from 'gatsby-plugin-mdx'
-import Layout from '../layout/layout'
-import siteConfig from '../../gatsby-config'
-import NoteList from '../components/note-list'
-import Search from '../components/search'
-import '../styles/index.css'
-import { DefaultMenuStructure, MenuRoot } from '../utils/menu-structure'
+import '../styles/index.css';
+
+import { graphql, Link, useStaticQuery } from 'gatsby';
+import { MDXRenderer } from 'gatsby-plugin-mdx';
+import React from 'react';
+
+import siteConfig from '../../gatsby-config';
+import NoteList from '../components/note-list';
+import Search from '../components/search';
+import Layout from '../layout/layout';
+import { DefaultMenuStructure, MenuRoot } from '../utils/menu-structure';
 
 export default function Home() {
   const data = useStaticQuery(graphql`
@@ -23,7 +25,7 @@ export default function Home() {
       }
       notes: allMdx(
         filter: { fields: { visibility: { eq: "public" } } }
-        limit: 5
+        limit: 15
         sort: { fields: fields___date, order: DESC }
       ) {
         edges {

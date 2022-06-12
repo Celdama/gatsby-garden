@@ -1,6 +1,6 @@
 ---
 title: Les six patterns d'un digital garden
-tags: ['digital-garden', 'MOC']
+tags: ['digital-garden', 'MOC', '3-patterns-digital-garden']
 ---
 
 1. [[La topographie plus que les timelines]]

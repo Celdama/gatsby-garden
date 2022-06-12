@@ -3,40 +3,44 @@ title: La solution, les avantages et la cible
 tags: ['le-projet']
 ---
 
-- projet pour les dev (Beginner/JR/SR) 
-	- peu importe le niveau on apprend tous les jours
-	- peu importe le niveau (je parle des dev ayant déjà trouvé leur premier job)
-		- on est voué à devoir apprendre de nvlle chose tout au long de notre carriere
-			- lire des articles
-			- regarder des tutos
-			- rencontrer des problèmes
-			- se poser des questions
-			- tester des choses
-			- trouver des astuces
-			- etc..
-			- tout se contenu à sa place dans ton endroit 
-- quand même gros focus sur les débutants, 'junior' en recherchent de leur premier taff
-	- pas toujours évident d'avoir le github qui attire l'oeil
-	- en revanche écrire régulièrement sur ce que tu fais va t'emmener loin, très loin
-	- avoir un endroit, TON endroit, où tu peux répertorier ton apprentissage
-		- cela va t'aider à trouver ton premier taff!
-	- si j'étais recruteur, je serais ravi d'avoir ce type d'endroit/portail/hub pour découvrir un candidat
-	- imagine dans 10ans, comment cet endroit pourrait être, retracant toute ton évolution dans ce monde en apprentissage perpetuel
-	- si tu es au jour 1 de ton apprentissage et tu n'as encore jamais codé une ligne de code, tu vas pouvoir:
-		- découvrir github
-		- découvrir netlify
-		- découvrir le markdown
-		- découvrir jekyll
-		- ca va te permettre déjà de découvrir 3 gros axes de tout développeur (versioning, hébergement, prise de note)
-	- je vais t'apprendre/t'expliquer ma facon de consommer du contenu
-		- l'importance de choisir le contenu que tu consommes avec précaution
-		- en tant que dev, (JR ou SR) tu auras toujours besoin d'apprendre/rechercher par toi même
-		- tout le monde à un moment le besoin d'apprendre quelque chose qu'on ne connait pas
-		- t'expliquer point par point comment je consomme du contenu, et SURTOUT comment je procède quand je dois apprendre quelque chose avec une méthode en 4 étape que j'ai utilisé pour tout mon apprentissage
-		- apprendre comment apprendre est l'une des compétences les plus sous estimées et les plus importante de nos jours, surtout dans notre métier
-			- les recruteurs ne recherchent pas quelqu'un qui sait, mais quelqu'un qui est capable d'apprendre
-				- comment tu t'y prend si je te demande d'apprendre Redux?
-	- si tu es débutant/JR il faut vraiment que tu sois conscient de l'importance du public learning (tu trouveras quelques notes à ce sujet dans l'endroit que je prépare pour la démo)
+### La solution
+[[Digital Garden]]
+
+
+### Les avantages
+Si tu es au jour 1 de ton apprentissage et que tu n'as encore jamais codé, le fait de suivre ce projet va te permettre de découvrir:
+- github
+- netlify
+- le markdown
+- obsidian
+
+Tu vas pouvoir commencer à te familiariser avec 3 gros axes du dev (versioning, hosting, et la prise de notes avec le markdown), et pouvoir commencer à prendre tes premières notes, accumulé tes premières connaissance et remplir ton digital garden. 
+
+Et si au contraire, tu as déjà un petit peu d'expérience, j'ai hâte de pouvoir découvrir tes notes.
+
+Je vais aussi t'expliquer ma façon de consommer du contenu et l'importance de choisir le contenu que tu consommes avec précaution. Je vais aussi te détailler la méthode d'apprentissage que j'utilise depuis le début et comment je procède quand je dois apprendre un concept, une nouvelle techno..
+
+Apprendre comment apprendre est l'une des compétences les plus sous estimées et les plus importantes de nos jours, surtout dans le monde du développement. 
+Les recruteurs ne recherchent pas exclusivement quelqu'un qui sait, mais quelqu'un qui est capable d'apprendre. Et quel meilleur endroit pour montrer que tu sais apprendre que ton digital garden? 
+
+Demande toi comment tu t'y prendrais concrétement si je te demandais d'apprendre Redux par exemple? 
+
+Si tu es débutant/JR il faut vraiment que tu sois conscient de l'importance du [[Imperfection et apprentissage en public|public learning]].
+
+### La cible
+De façon générale je m'adresse à tous les développeurs, débutant, junior ou senior. Peu importe notre niveau on apprend tous les jours.
+On est voué à devoir apprendre de nouvelles choses tout au long de notre carrière.
+Que ce soit des lire des articles, regarder des tutos, rencontrer des problèmes, se poser des questions, tester des choses, trouver des astuces, etc.. tout ce contenu à sa place dans le digital garden. 
+
+En revanche ce projet représente quand même un gros focus sur les débutants, les juniors en recherchent de leur premier taff.
+En partant du principe que ce n'est pas toujours évident d'avoir un github bien rempli, alors qu'écrire régulièrement sur ce que tu fais va t'ouvrir beaucoup de portes. 
+
+Que tu puisses avoir un endroit, TON endroit, où tu peux répertorier ton apprentissage, cela va t'aider à décrocher ta première expérience. 
+
+Si j'étais recruteur, je serais ravi d'avoir ce type d'endroit/hub pour découvrir un candidat. 
+
+Imagine dans 10 ans, comment pourrait être cet endroit, retraçant tout ton apprentissage, toute ton évolution dans ce monde en perpétuel apprentissage.
+
 - ce projet va te permettre d'avoir ta propre parcel d'internet
 	- gratuitement 
 	- sans pré requis en terme de niveau 

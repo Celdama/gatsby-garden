@@ -1,6 +1,6 @@
 ---
 title: Digital Garden
-tags: ['MOC', 'le-projet'] 
+tags: ['MOC', '2-digital-garden'] 
 ---
 
 1. [[C'est quoi un digital garden]]

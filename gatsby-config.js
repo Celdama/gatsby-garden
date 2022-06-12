@@ -19,7 +19,10 @@ module.exports = {
         title: 'Tags',
         menu: [
           // Only one level depth, please.
-          { type: 'tag', item: 'digital-garden' },
+          { type: 'tag', item: '0-roadmap' },
+          { type: 'tag', item: '1-le-projet' },
+          { type: 'tag', item: '2-digital-garden' },
+          { type: 'tag', item: '3-patterns-digital-garden' },
           // { type: 'tag', item: 'philosophy' },
           { type: 'tag', item: 'fleeting-notes' },
           { type: 'tag', item: 'litterature-notes' },
@@ -27,6 +30,12 @@ module.exports = {
           // { type: 'tag', item: 'rationality' },
         ],
       },
+      // {
+      //   type: 'page',
+      //   item: 'tags',
+      //   title: 'Steps',
+      //   menu: [{ type: 'tag', item: '1 le projet' }],
+      // },
     ],
 
     // menu: [ // This is the Table of Contents that comes in the home page if a Home Note is not specified. It can be much longer than the header menu.
