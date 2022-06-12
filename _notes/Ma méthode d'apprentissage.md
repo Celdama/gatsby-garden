@@ -38,7 +38,10 @@ A ce stade, j'ai mes onglets restants sur le sujet que je souhaites étudier.
 
 Je commence ensuite à parcourir mes ressources, de gauche à droite, en commencant toujours par les docs et leur tutoriels et pour généralement finir sur un crash courses (Brad Traversy <3) ou une application de réplication.
 
-Je passe en revue toutes les ressources, en prenant des notes, beaucoup de notes.
+Je passe en revue toutes les ressources, en [[Ma méthode de prise de note|prenant des notes]], beaucoup de notes.
 
 ### la pratique 
 Ensuite, le plus rapidement possible je commence à construire un projet pour mettre en pratique ce que je viens d'étudier. 
+
+Il faut voir le nouveau concept/apprentissage comme un muscle, si on ne l'exerce pas il va s'atrophier.<br/>
+Si on exerce le concept, il va s'accrocher et grandir, d'où pour moi, l'importance des sides projects.
