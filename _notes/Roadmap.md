@@ -3,7 +3,6 @@ title: Roadmap projet
 tags: ['MOC', '0-roadmap']
 ---
 
-TODO: expliquer ma facon de prendre des notes (zettelkasten)
 
 1. [[Le projet]]
 2. [[Digital Garden]]

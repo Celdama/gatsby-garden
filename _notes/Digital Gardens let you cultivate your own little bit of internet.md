@@ -1,6 +1,6 @@
 ---
 title: Digital Gardens let you cultivate your own little bit of internet
-tags: ['litterature-notes', 'digital-garden']
+tags: ['literature-notes', 'digital-garden']
 ---
 
 Digital Gardens is publishing personal knowledge on the web. It's a new approach, wich offers much more freedom.
