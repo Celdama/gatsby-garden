@@ -3,6 +3,8 @@ title: La méthode Zettelkasten
 tags: ['PKM', 'literature-notes']
 ---
 
+L'idée derrière cette méthode est de te construire un [[second cerveau]]. 
+
 Les 4 principes de base:
 - écrire est la seule chose qui compte
 - la simplicité est primordiale : le système Zettelkasten prend de la valeur au fur et à mesure qu'il se développe, au lieu de devenir désordonné et confus
