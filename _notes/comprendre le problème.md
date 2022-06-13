@@ -1,5 +1,5 @@
 ---
-title: Comprendre le problème
+title: Comprendre le problème 
 tags: ['problem-solving', 'permanent-notes']
 ---
 

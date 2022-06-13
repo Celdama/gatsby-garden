@@ -1,5 +1,5 @@
 ---
-title: Digital Garden vs Blog
+title: Digital Garden vs Blog 
 tags: ['digital-garden', 'permanent-notes']
 source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---

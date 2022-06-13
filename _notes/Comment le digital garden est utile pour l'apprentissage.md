@@ -1,5 +1,5 @@
 ---
-title: Comment le digital garden est utile pour l'apprentissage
+title: Comment le digital garden est utile pour l'apprentissage 
 tags: ['digital-garden', 'permanent-notes']
 source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---

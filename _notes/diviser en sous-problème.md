@@ -1,5 +1,5 @@
 ---
-title: Diviser en sous-problèmes
+title: Diviser en sous-problèmes 
 tags: ['problem-solving', 'permanent-notes']
 ---
 

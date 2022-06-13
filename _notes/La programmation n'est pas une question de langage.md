@@ -1,6 +1,6 @@
 ---
 title: La programmation n'est pas une question de langage
-tags: ['permanent-notes']
+tags: ['permanent-notes', 'programming']
 ---
 
 Le code c'est juste une question de [[8 principaux concepts|Les 8 principaux concepts de la programmation]], et ils fonctionnent presque de la même manière dans tous les langages.

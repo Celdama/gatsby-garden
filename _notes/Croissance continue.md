@@ -1,5 +1,5 @@
 ---
-title: Croissance continue
+title: Croissance continue 
 tags: ['digital-garden', 'permanent-notes']
 source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---

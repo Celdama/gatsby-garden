@@ -1,5 +1,5 @@
 ---
-title: Bénéfice du digital garden
+title: Bénéfice du digital garden 
 tags: ['permanent-notes', 'digital-garden', 'learning']
 source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
@@ -15,7 +15,7 @@ Le digital garden donne aux lecteurs un aperçu de ton écriture et de ton proce
 
 Les gardens font connaître leur imperfection au lecteur.
 
-TEST
+
 
 Example digital gardens:
 

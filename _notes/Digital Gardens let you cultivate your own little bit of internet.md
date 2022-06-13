@@ -1,5 +1,5 @@
 ---
-title: Digital Gardens let you cultivate your own little bit of internet
+title: Digital Gardens let you cultivate your own little bit of internet 
 tags: ['literature-notes', 'digital-garden']
 ---
 

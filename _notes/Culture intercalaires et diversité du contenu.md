@@ -1,5 +1,5 @@
 ---
-title: Culture intercalaires et diversité du contenu
+title: Culture intercalaires et diversité du contenu 
 tags: ['digital-garden', 'permanent-notes']
 source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---

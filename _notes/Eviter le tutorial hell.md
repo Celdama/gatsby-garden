@@ -1,9 +1,9 @@
 ---
-title: Eviter le tutorial hell
+title: Eviter le tutorial hell 
 tags: ['syndrome', 'tutorial-hell', 'permanent-notes', 'in-progress']
 ---
 
-Avant de commencer l'apprentissage de quelque chose, il faut avoir un objectif. A objectif fort et bien défini.
+Avant de commencer l'apprentissage de quelque chose, il faut avoir un objectif. Un objectif fort et bien défini.
 
 Avoir un objectif et avoir un objectif fort et bien défini sont deux choses différentes.
 

@@ -1,5 +1,5 @@
 ---
-title: Comment on se retrouve dans le tutorial hell
+title: Comment on se retrouve dans le tutorial hell 
 tags: ['syndrome', 'tutorial-hell', 'permanent-notes']
 ---
 

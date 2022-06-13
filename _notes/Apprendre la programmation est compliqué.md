@@ -1,6 +1,6 @@
 ---
-title: Apprendre la programmation est compliqué
-tags: ['permanent-notes', 'learning']
+title: Apprendre la programmation est compliqué 
+tags: ['permanent-notes', 'learning', 'programming']
 ---
 
 La programmation est différentes des autres compétences qui peuvent être apprises.<br/>
