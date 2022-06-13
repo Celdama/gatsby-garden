@@ -1,6 +1,6 @@
 ---
 title: Roadmap projet
-tags: ['0-roadmap']
+tags: ['MOC', '0-roadmap']
 ---
 
 TODO: expliquer ma facon de prendre des notes (zettelkasten)
