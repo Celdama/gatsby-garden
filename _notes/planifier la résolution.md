@@ -3,7 +3,7 @@ title: Planifier la résolution
 tags: ['problem-solving', 'permanent-notes']
 --- 
 
-Ne pas coder sans plan! Tu ne peux arriver à rien si tu ne prends pas le temps pour écrire les étapes exactes à suivre pour résoudre ton problème. Tu as peut-être déjà entendus parler du [[pseudo code]]?
+Ne pas coder sans plan! Tu ne peux arriver à rien si tu ne prends pas le temps pour écrire les étapes exactes à suivre pour résoudre ton problème. Tu as peut-être déjà entendus parler du [[Pseudo code]]?
 
 Il faut donner au cerveau le temps d'analyser le problème et de traiter l'information. 
 

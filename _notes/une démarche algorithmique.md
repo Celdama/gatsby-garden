@@ -66,6 +66,6 @@ print("answer is ")
 print(sum)
 ``` 
 
-Voilà maintenant je peux chercher comment convertir une variable en integer, dans le langage de mon choix. C'est la beauté du [[pseudo code]] et de l'algorithmie. Coder sans savoir coder, et ensuite remplacer les éléments du langage humain en code. 
+Voilà maintenant je peux chercher comment convertir une variable en integer, dans le langage de mon choix. C'est la beauté du [[Pseudo code]] et de l'algorithmie. Coder sans savoir coder, et ensuite remplacer les éléments du langage humain en code. 
 
 Ici pour coder une nouvelle version de cet algorithme, il est préférable de mettre l'ancien code de coté et de repartir à zéro.
