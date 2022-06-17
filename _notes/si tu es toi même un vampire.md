@@ -1,7 +1,7 @@
 ---
 title: Si tu es toi même un vampire
 tags: ['permanent-notes', 'help']
-source: [[Repérer les vampires de l'aide]]
+source: '[[Repérer les vampires de l'aide]]'
 ---
 
 Avant de poser une question, essaie de trouver la solution quelque part. 
