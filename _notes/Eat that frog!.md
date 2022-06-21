@@ -82,6 +82,7 @@ Manger la grenouille
 	- pratique cette ABCDE méthode chaque jour durant 1 mois avant de commencer le travail. Après 1 mois, tu auras développé l'habitude de mettre en place et de travailler sur des tâches à haute valeur ajoutée, et ton futur sera assuré.
 DONE
 
+DONE
 Se concentrer sur les domaines de résultats clés
 - les domaines de résultats clés sont définis comme quelque chose dont tu es complètement responsable. Si tu ne le fais pas, personne le fera. Un domaine de résultat clé est quelque chose qui est sous ton contrôle. Il produit un résultat qui devient un apport ou un facteur contribuant au travail des autres. 
 - LA CLARTE EST ESSENTIELLE 
@@ -120,7 +121,7 @@ Se concentrer sur les domaines de résultats clés
 		- l'objectif doit être de performer le plus possible dans ton travail.
 			- pour pouvoir faire le plus et profiter des hauts niveaux de récompenses dans ta carrière.
 		- ne perd jamais de vue le pourquoi tu travailles, les vrais raisons de pourquoi tu travailles dur et pourquoi tu es si déterminé à accomplir le plus avec le temps que tu investis. 
-
+DONE
 
 Prépare toi minutieusement avant de commencer
 - avoir tout ce dont tu as besoin sous la main avant de commencer
