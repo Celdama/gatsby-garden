@@ -132,7 +132,7 @@ Prépare toi minutieusement avant de commencer
 	- spécialement une chaîse de bureau confortable pour le dos.
 	- plus l'espace de travail est clean et bien ranger avant de commencer le travail, plus facile il sera de se mettre dans le travail.
 
-
+DONE
 Fais le premier pas
 - adopte un langage corporel prêt à travailler
 	- tiens toi droit, assis toi en avant et loin du dossier de la chaise.
@@ -148,8 +148,9 @@ L'environnement de travail est ultra important
 
 
 > Au mètre, c'est difficile, mais centimètre par centimère, c'est du gâteau.
+DONE
 
-
+DONE
 Traverser le grand désert
 - pour accomplir une grande tâche, tu dois faire un pas dans la foi et avoir une confiance totale dans le fait que ta prochaine étape deviendra bientôt claire pour toi. 
 	- un des meilleurs moyens de manger les plus grosses grenouilles et d'y aller une bouchée à la fois.
@@ -171,8 +172,9 @@ N'arréte jamais d'apprendre
 	- tu peux devenir un grand vendeur
 	- tu peux apprendre à parler en public
 	- tout ces skills peuvent être appris si tu décides qu'ils sont ta priorité
+DONE
 
-
+DONE
 3 étapes vers la maîtrise
 - lire dans ton domaine pendant au moins une heure chaque jour
 	- lève toi un peu plus tôt le matin et lis entre 30 et 60 minutes d'un livre/magazine contenant des informations qui peuvent t'aider à devenir plus efficace, plus productif dans ce que tu fais. 
@@ -180,13 +182,14 @@ N'arréte jamais d'apprendre
 - suit tous les cours et séminaires disponibles sur les compétences clés qui peuvent t'aider
 - transforme ton temps de conduite en temps d'apprentissage.
 	- tu peux devenir une des personnes les plus intelligentes, les plus compétentes et les mieux payées dans ton domaine, simplement en écoutant des programmes audio éducatifs pendant que tu conduis. 
-
-
+DONE
+DONE
 Débloque ton potentiel personnel
 - 1. identifie les compétences clés qui peuvent t'aider le plus à obtenir des résultats meilleurs et plus rapides. Détermine les compétences essentielles que tu dois posséder à l'avenir pour être à la pointe de ton domaine. Quellles qu'elles soient, fixe un objectif, établis un plan et commence à développer et à accroître tes capacités dans ces domaines. Décide d'être le meilleur dans ce que tu fais! 
 - 2. élabore un plan personnel pour te préparer à accomplir tes tâches les plus importantes de manière excellente. Concentre toi sur les domaines dans lesquels tu as des talents particuliers et que tu apprécies le plus. C'est la clé pour libérer ton potentiel personnel.
+DONE
 
-
+DONE
 Identifier le facteur limitant
 - entre l'endroit où tu es aujourd'hui et n'importe quel but ou objectif que tu souhaites atteindre, il y à une contrainte majeur qui doit être surmontée avant que tu puisses atteindre ton objectif majeur.
 - tu dois identifier ce facteur limitant pour atteindre ton objectif
@@ -203,7 +206,7 @@ Identifier le facteur limitant
 	- le monde est remplit de personnes qui attendent que quelqu'un vienne les motiver à devenir le genre de personnes qu'ils souhaient être. Le problème est que personne ne viendra te sauver.
 		- ces personnes attendent pour un bus dans une rue où aucun bus ne passe. Si ils ne prennent pas la charge de leur vie sur leur dos et la pression sur eux-mêmes, ils pourront attendre toute leur vie. Et c'est ce que la plupart des gens font.
 		- seulement 2% des personnes peuvent travailler entièrement sans supervision. Ce sont les "leaders". Ces ce types de personnes qu'il faut vouloir être, et on peut l'être si on le souhaite.
-
+DONE
 
 Créer des deadlines imaginaires
 - l'une des meilleures manières de vaincre la procrastination et faire les choses est de travailler comme ci on n'avait qu'un seul jour pour réaliser la tâche la plus importante. 
