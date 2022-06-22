@@ -10,3 +10,6 @@ Répondre à cette question va te permettre d'identifier les [[Se concentrer sur
 Montre cette liste à ton boss, discute en avec lui. Demande lui un [[les feedbacks|feedback]] honnête. Tu peux devenir meilleur seulement si tu es ouvert aux feedback constructif des autres personnes. Discute de tes conclusions avec tes collègues. Parle en à ton conjoint.
 
 Prend l'habitude de faire cette analyse régulièrement pour le reste de ta carrière. Ne cesse jamais de t'améliorer. Cette décision peut changer ta vie.
+
+### Référence:
+[[Eat that frog!]]

@@ -18,3 +18,6 @@ Une fois cette liste identifiée, il faut que tu sois organisé, [[La concentrat
 Une fois les 3 objectifs les plus importants identifiés, organises les par priorités. Fais un plan pour les accomplir, et travail sur tes plans chaque jours. Tu vas être étonné de ce que tu peux accomplir dans les mois/années à venir.
 
 C'est [[mets de la qualité quand tu travailles|la qualité du temps passé au travail]] qui compte et la quantité de temps passé à la maison qui importe. 
+
+### Référence:
+[[Eat that frog!]]

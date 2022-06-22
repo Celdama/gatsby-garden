@@ -12,3 +12,6 @@ Il s'agit simplement de procrastiner délibérément et consciemment sur de peti
 La différence entre les personnes performantes et celles qui ne le sont pas est largement déterminée par ce sur quoi elles choisissent de procrastiner.
 
 Tu dois être capable de déterminer ta propre échelle de [[priorité vs postériorité]].
+
+### Référence:
+[[Eat that frog!]]

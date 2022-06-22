@@ -10,3 +10,6 @@ Tu peux aussi faire en sorte que le taff soit fait bien avant la deadline. Tu se
 - *"Quelles sont mes activités à forte valeur ajoutée?"*
 - *"Qu'est ce que je peux faire, une et unique chose qui si est bien faite fera une réelle différence?"*
 - *"Quel est l'utilisation la plus utile de mon temps en ce moment?"*
+
+### Référence:
+[[Eat that frog!]]

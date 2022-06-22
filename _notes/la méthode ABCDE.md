@@ -10,3 +10,6 @@ tags: ['permanent-notes', 'productivity']
 	- une tâche 'C' est définie sur quelque chose qui serait bien que tu fasses mais pour laquelle il n'y a pas de conséquences que tu le fasses ou non. Les tâches 'C' inclus, appeler un ami, prendre un café avec un collègue, compléter quelques tâches perso de ton business durant les heures de travails.
 	- une tâche 'D' est définie sur quelque chose que tu peux déléguer.
 	- une tâche 'E' est définie sur quelque chose que tu peux éliminer complétement.
+
+### Référence:
+[[Eat that frog!]]

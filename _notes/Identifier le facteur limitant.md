@@ -14,3 +14,5 @@ Commencer une journée en éliminant un facteur limitant nous remplit d'énergie
 
 La loi de pareto, 80/20 s'applique aux contraintes/facteur limitant. 80% de nos contraintes sont internes.
 
+### Référence:
+[[Eat that frog!]]

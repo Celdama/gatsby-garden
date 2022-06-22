@@ -25,7 +25,7 @@ export default function Home() {
       }
       notes: allMdx(
         filter: { fields: { visibility: { eq: "public" } } }
-        limit: 15
+        limit: 20
         sort: { fields: fields___date, order: DESC }
       ) {
         edges {

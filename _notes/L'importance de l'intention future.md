@@ -1,7 +1,6 @@
 ---
 title: L'importance de l'intention future
 tags: ['permanent-notes']
-source: '[[Eat that frog!]]'
 ---
 
 C'est ton intention future qui va influencer et déterminer tes actions présentes. Le plus tu es clair à propos de tes intentions futures, le plus tes actions présentes seront claires.
@@ -13,3 +12,6 @@ Les personnes qui réussissent sont prêtes à retarder la satisfaction et à fa
 [[La motivation]] est un facteur clé, mais ne suffit pas. Il faut continuellement penser aux potentielles conséquences de nos choix, décisions et comportement pour déterminer au mieux nos VRAIES priorités dans notre travail et notre vie personnelle.
 
 Il faut garder en tête que [[le temps est une illusion]].
+
+### Référence:
+[[Eat that frog!]]

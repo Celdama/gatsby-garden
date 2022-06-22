@@ -1,7 +1,6 @@
 ---
 title: Se concentrer sur les domaines de résultats clés
-tags: ['permanent-notes']
-source: '[[Eat that frog!]]'
+tags: ['permanent-notes', 'productivity']
 ---
 
 Les domaines de résultats clés sont définis comme quelque chose dont tu es complètement responsable. Si tu ne le fais pas, personne ne le fera. 
@@ -13,3 +12,6 @@ Pour pouvoir te concentrer sur ces domaines [[la clarté est essentielle]], il f
 Pour identifier les domaines de résultats clés, il existe [[La grande question|une grande question]]. 
 
 Une fois ces domaines identifiées développe l'habitude de [[faire une seule chose toute la journée]] et d'appliquer [[la loi des trois]].
+
+### Référence:
+[[Eat that frog!]]

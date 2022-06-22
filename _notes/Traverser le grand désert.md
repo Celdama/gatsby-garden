@@ -1,7 +1,6 @@
 ---
 title: Traverser le grand désert
 tags: ['permanent-notes', 'productivity']
-source: '[[Eat that frog!]]'
 ---
 
 Pour accomplir une grande tâche, tu dois faire un pas dans la foi et avoir une confiance totale dans le fait que ta prochaine étape deviendra bientôt claire pour toi. Un des meilleurs moyens de réaliser les plus grosses tâches et d'y aller étape par étape.
@@ -15,3 +14,6 @@ Apprend ce que tu dois apprendre pour réaliser ton travail de la meilleure des 
 Tu peux accomplir les plus grands objectifs de ta vie en te disciplinant pour ne prendre qu'une étape par étape vers la réalisation de tes objectifs.
 
 Et surtout, [[n'arrête jamais d'apprendre]].
+
+### Référence:
+[[Eat that frog!]]
