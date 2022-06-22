@@ -10,4 +10,4 @@ La bonne nouvelle est que tu peux apprendre n'importe laquelle des compétences 
 Tu peux apprendre à écrire, tu peux devenir développeur, tu peux devenir un grand vendeur, tu peux apprendre à parler en public. Tous ces skills peuvet être appris si tu décides qu'ils sont ta priorité.
 
 ### Référence:
-[[Eat that frog!]]**
+[[Eat that frog!]]

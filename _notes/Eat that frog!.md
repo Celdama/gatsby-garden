@@ -1,6 +1,6 @@
 ---
 title: Eat that frog!
-tags: ['reference-notes', 'procrastiner', 'books']
+tags: ['reference-notes', 'procrastiner', 'book']
 source: https://www.amazon.fr/Eat-That-Frog-Great-Procrastinating/dp/162656941X/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=34I0T1UGXEXV2&keywords=eat+that+frog&qid=1655584587&sprefix=eat+that+frog%2Caps%2C58&sr=8-2
 ---
 
@@ -208,12 +208,13 @@ Identifier le facteur limitant
 		- seulement 2% des personnes peuvent travailler entièrement sans supervision. Ce sont les "leaders". Ces ce types de personnes qu'il faut vouloir être, et on peut l'être si on le souhaite.
 DONE
 
+DONE
 Créer des deadlines imaginaires
 - l'une des meilleures manières de vaincre la procrastination et faire les choses est de travailler comme ci on n'avait qu'un seul jour pour réaliser la tâche la plus importante. 
 - les personnes à succès se mettent continuellement la pression pour performer à des haut niveaux. Les personnes sans succès doit être diriger et mis sous pressions par les autres. 
 	- fixe des délais et des sous-délais pour chaque tâche et activités. Créer ton propre 'forcing system'. Met la barre plus haut et ne te laisse pas aller. Une fois que tu t'es fixé une deadline, respecte-là et essaye même de la dépasser.
 	- rédige chaque étape d'un travail ou d'un projet important avance de commencer. Détermine le nombre de minutes et d'heures dont tu auras besoin pour achever chaque phase. Ensuite, fais la course contre ta propre montre. Bat tes propres délais. Fais en un jeu, et prend la résolution de gagner! 
-
+DONE
 
 Se créer des zones de silence
 - prend la résolution de créer des zones de silence pendant tes activités quotidienne. Eteint ton ordinateur et ton smartphone pendent une heure le matin et une heure l'après midi. Tu seras étonné de ce qui se passe: rien.
@@ -270,6 +271,7 @@ L'illusion du multitâches
 			- le début d'une nouvelle habitude est comme un invisible fil, à chaque répétition il devient plus épais, un nouveau filament est ajouté, jusqu'à ce que l'habitude devienne un cable épais et nous lie irrévocablement à celle habitude, en pensée et en acte.
 			- il faut exposer la tâche en détail, en notant chaque étape dans l'ordre, puis on décide de n'en faire qu'une partie pour le moment. 
 				- psychologiquement, c'est plus simple de faire une seule, petite chose à la fois plutôt que de vouloir faire tout le projet dans son ensemble. 
+
 
 
 
