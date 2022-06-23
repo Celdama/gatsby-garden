@@ -1,6 +1,6 @@
 ---
 title: Le code te dit comment, les commentaires te disent pourquoi
-tags: ['permanante-notes', 'programming']
+tags: ['permanente-notes', 'programming']
 ---
 
 C'est seulement arrivé au point où le code ne peut pas être plus simple à comprendre que l'utilisation de commentaire devient justifiée. 
