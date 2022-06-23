@@ -4,7 +4,6 @@ tags: ['reference-notes', 'procrastiner', 'book']
 source: https://www.amazon.fr/Eat-That-Frog-Great-Procrastinating/dp/162656941X/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=34I0T1UGXEXV2&keywords=eat+that+frog&qid=1655584587&sprefix=eat+that+frog%2Caps%2C58&sr=8-2
 ---
 
-DONE
 - ton intention future influence et détermine souvent tes actions présentes
 	- le plus tu es clair à propos de tes intentions futures le plus tes actions présentes seront claires
 	- les personnes qui réussissent sont prêtes à retarder la satisfaction et faire des sacrifices à court terme pour pouvoir profiter de récompenses plus grandes dans à plus long terme.
@@ -13,10 +12,6 @@ DONE
 	- penser continuellement au potentiel conséquences de nos choix, décisions et comportement est une des clé pour déterminer au mieux nos VRAIS priorités dans notre travail et notre vie personnel.
 	- il n'y aura jamais assez de temps pour tout faire, MAIS il y a toujours assez de temps pour faire les choses importantes. Il n'y aura jamais assez de temps pour faire tout ce que tu as à faire.
 		- obéir à la loi de l'efficacité forcée
-
-DONE
-
-DONE
 	
 - les deadlines sont des excuses
 	- de nombreuses personnes affirment qu'elles travaillent mieux sous la pression des deadlines. Malheureusement, des années de recherche indiquent que c'est rarement vrai. 
@@ -29,38 +24,29 @@ DONE
 			- c'est l'une des questions les plus importantes à se poser pour atteindre l'efficacité personnelle.
 			- une fois cette tâche déterminée, fais la! personne d'autre ne va s'en occuper.
 		- *"Quel est l'utilisation la plus utile de mon temps en ce moment?"*
-DONE
-
 
 - Faire les choses importantes en premier et les choses secondaires pas du tout.
 	- *"Les choses qui comptent le plus ne doivent jamais être à la merci de celles qui comptent le moins" -- Goethe*
 	1. check ta liste de tâche, et de projets régulièrement
 	2. détermine la chose la plus importante que tu pourrais faire pour chaque heure de chaque journée, et discipline toi pour travailler continuellement à l'utilisation la plus utile de ton temps!
 
-DONE
 Pratiquer la procrastination créative
-	- tu ne peux pas toujours faire ce que tu as à faire, tu dois procrastiner par moment
-	- la procrastination créative est l'une des plus efficaces de toutes les techniques de performance personnelle. Elle peut changer ta vie.
-	- procrastiner délibérément et consciemment sur de petites tâches.
-	- tout le mondre procrastine
-		- la difference entre les personnes performantes et celles qui ne le sont pas est largement déterminée par ce sur quoi elles choisissent de procrastiner
-		- priorité vs postériorité
-			- priorité: quelque chose que l'on fait plus et plus tôt
-			- postériorité: quelque chose que l'on fait moins et plus tard, voir pas du tout.
-DONE
+- tu ne peux pas toujours faire ce que tu as à faire, tu dois procrastiner par moment
+- la procrastination créative est l'une des plus efficaces de toutes les techniques de performance personnelle. Elle peut changer ta vie.
+- procrastiner délibérément et consciemment sur de petites tâches.
+- tout le mondre procrastine
+	- la difference entre les personnes performantes et celles qui ne le sont pas est largement déterminée par ce sur quoi elles choisissent de procrastiner
+	- priorité vs postériorité
+		- priorité: quelque chose que l'on fait plus et plus tôt
+		- postériorité: quelque chose que l'on fait moins et plus tard, voir pas du tout.
 
-DONE
 La puissance du mot 'non'
 - c'est l'un des mots les plus puissant dans ta gestion du temps. Dis le poliment. Dis le clairement pour qu'il n'y est pas d'incompréhension. Dis le régulièrement comme une part normale de ton vocabulaire de gestion de ton temps. 
 - dis non à tout ce qui n'est pas à haute valeur pour l'utilisation de ton temps. Dire non gracieusement mais fermement pour éviter d'accepter quelque chose contre ton gré. Dis le tôt et dis le souvent. N'oublie pas que tu n'as pas de temps libre.
 
-DONE
-
-DONE
 La première loi du succès est la concentration
 - de faire converger toutes les énergies vers un seul point, et d'aller directemenjt à ce point, sans regarder ni à droite ni à gauche.
 - plus tu réflechis à la planification et à la définition des priorités avant de commencer, plus tu feras de choses importantes et plus vite tu les feras une fois que tu auras commencé
-DONE
 
 Réflechis sur papier
 - cette technique est si simple et efficace, qu'elle peut à elle seule, faire de toi l'une des personnes les plus efficaces et les plus performantes de ton domaine.
@@ -71,18 +57,14 @@ Réflechis sur papier
 	- une tâche 'C' est défini sur quelque chose que qui serait bien que tu fasses mais pour laquelle il n'y a pas de conséquences que tu le fasses ou non. Les tâches 'C' inclus, appeler un ami, prendre un café avec un coworkers, compléter quelques tâches personnelles de ton business durant les heures de travail.
 	- une tâche 'D' est défini sur quelque chose que tu peux déléguer.
 	- une tâche 'E' est défini sur quelque chose que tu peux éliminer complétement
-DONE
 
-DONE
 Passe à l'action immédiatement
 - utilise ta volonté pour te lancer et rester sur la tâche choisie, la plus importante que tu puisses faire. Mange la grenouille entière et ne t'arrête pas avant qu'elle soit complètement terminée.
 
 Manger la grenouille
 1. revois ta liste de travail et ajoute un A,B,C,D ou E à coté de chaque tâche ou activité. Selectionne ta A-1 tâche et commence à travailler dessus immédiatement. Discipline toi pour ne rien faire d'autre tant que cette tâche n'est pas complètée.
 	- pratique cette ABCDE méthode chaque jour durant 1 mois avant de commencer le travail. Après 1 mois, tu auras développé l'habitude de mettre en place et de travailler sur des tâches à haute valeur ajoutée, et ton futur sera assuré.
-DONE
 
-DONE
 Se concentrer sur les domaines de résultats clés
 - les domaines de résultats clés sont définis comme quelque chose dont tu es complètement responsable. Si tu ne le fais pas, personne le fera. Un domaine de résultat clé est quelque chose qui est sous ton contrôle. Il produit un résultat qui devient un apport ou un facteur contribuant au travail des autres. 
 - LA CLARTE EST ESSENTIELLE 
@@ -121,7 +103,6 @@ Se concentrer sur les domaines de résultats clés
 		- l'objectif doit être de performer le plus possible dans ton travail.
 			- pour pouvoir faire le plus et profiter des hauts niveaux de récompenses dans ta carrière.
 		- ne perd jamais de vue le pourquoi tu travailles, les vrais raisons de pourquoi tu travailles dur et pourquoi tu es si déterminé à accomplir le plus avec le temps que tu investis. 
-DONE
 
 Prépare toi minutieusement avant de commencer
 - avoir tout ce dont tu as besoin sous la main avant de commencer
@@ -132,7 +113,6 @@ Prépare toi minutieusement avant de commencer
 	- spécialement une chaîse de bureau confortable pour le dos.
 	- plus l'espace de travail est clean et bien ranger avant de commencer le travail, plus facile il sera de se mettre dans le travail.
 
-DONE
 Fais le premier pas
 - adopte un langage corporel prêt à travailler
 	- tiens toi droit, assis toi en avant et loin du dossier de la chaise.
@@ -148,9 +128,7 @@ L'environnement de travail est ultra important
 
 
 > Au mètre, c'est difficile, mais centimètre par centimère, c'est du gâteau.
-DONE
 
-DONE
 Traverser le grand désert
 - pour accomplir une grande tâche, tu dois faire un pas dans la foi et avoir une confiance totale dans le fait que ta prochaine étape deviendra bientôt claire pour toi. 
 	- un des meilleurs moyens de manger les plus grosses grenouilles et d'y aller une bouchée à la fois.
@@ -172,9 +150,7 @@ N'arréte jamais d'apprendre
 	- tu peux devenir un grand vendeur
 	- tu peux apprendre à parler en public
 	- tout ces skills peuvent être appris si tu décides qu'ils sont ta priorité
-DONE
 
-DONE
 3 étapes vers la maîtrise
 - lire dans ton domaine pendant au moins une heure chaque jour
 	- lève toi un peu plus tôt le matin et lis entre 30 et 60 minutes d'un livre/magazine contenant des informations qui peuvent t'aider à devenir plus efficace, plus productif dans ce que tu fais. 
@@ -182,14 +158,11 @@ DONE
 - suit tous les cours et séminaires disponibles sur les compétences clés qui peuvent t'aider
 - transforme ton temps de conduite en temps d'apprentissage.
 	- tu peux devenir une des personnes les plus intelligentes, les plus compétentes et les mieux payées dans ton domaine, simplement en écoutant des programmes audio éducatifs pendant que tu conduis. 
-DONE
-DONE
+
 Débloque ton potentiel personnel
 - 1. identifie les compétences clés qui peuvent t'aider le plus à obtenir des résultats meilleurs et plus rapides. Détermine les compétences essentielles que tu dois posséder à l'avenir pour être à la pointe de ton domaine. Quellles qu'elles soient, fixe un objectif, établis un plan et commence à développer et à accroître tes capacités dans ces domaines. Décide d'être le meilleur dans ce que tu fais! 
 - 2. élabore un plan personnel pour te préparer à accomplir tes tâches les plus importantes de manière excellente. Concentre toi sur les domaines dans lesquels tu as des talents particuliers et que tu apprécies le plus. C'est la clé pour libérer ton potentiel personnel.
-DONE
 
-DONE
 Identifier le facteur limitant
 - entre l'endroit où tu es aujourd'hui et n'importe quel but ou objectif que tu souhaites atteindre, il y à une contrainte majeur qui doit être surmontée avant que tu puisses atteindre ton objectif majeur.
 - tu dois identifier ce facteur limitant pour atteindre ton objectif
@@ -206,15 +179,12 @@ Identifier le facteur limitant
 	- le monde est remplit de personnes qui attendent que quelqu'un vienne les motiver à devenir le genre de personnes qu'ils souhaient être. Le problème est que personne ne viendra te sauver.
 		- ces personnes attendent pour un bus dans une rue où aucun bus ne passe. Si ils ne prennent pas la charge de leur vie sur leur dos et la pression sur eux-mêmes, ils pourront attendre toute leur vie. Et c'est ce que la plupart des gens font.
 		- seulement 2% des personnes peuvent travailler entièrement sans supervision. Ce sont les "leaders". Ces ce types de personnes qu'il faut vouloir être, et on peut l'être si on le souhaite.
-DONE
 
-DONE
 Créer des deadlines imaginaires
 - l'une des meilleures manières de vaincre la procrastination et faire les choses est de travailler comme ci on n'avait qu'un seul jour pour réaliser la tâche la plus importante. 
 - les personnes à succès se mettent continuellement la pression pour performer à des haut niveaux. Les personnes sans succès doit être diriger et mis sous pressions par les autres. 
 	- fixe des délais et des sous-délais pour chaque tâche et activités. Créer ton propre 'forcing system'. Met la barre plus haut et ne te laisse pas aller. Une fois que tu t'es fixé une deadline, respecte-là et essaye même de la dépasser.
 	- rédige chaque étape d'un travail ou d'un projet important avance de commencer. Détermine le nombre de minutes et d'heures dont tu auras besoin pour achever chaque phase. Ensuite, fais la course contre ta propre montre. Bat tes propres délais. Fais en un jeu, et prend la résolution de gagner! 
-DONE
 
 Se créer des zones de silence
 - prend la résolution de créer des zones de silence pendant tes activités quotidienne. Eteint ton ordinateur et ton smartphone pendent une heure le matin et une heure l'après midi. Tu seras étonné de ce qui se passe: rien.
