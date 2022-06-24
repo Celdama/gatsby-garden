@@ -1,6 +1,6 @@
 ---
 title: Second cerveau
-tags: ['learning', 'PKM']
+tags: ['learning', 'PKM', 'zettelkasten']
 --- 
 
 Imagine un endroit où tu peux facilement..

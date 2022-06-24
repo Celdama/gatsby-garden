@@ -1,6 +1,6 @@
 ---
 title: Comment aider les autres à résoudre leur problèmes de code
-tags: ['literature-notes', 'programming', 'help']
+tags: ['permanente-notes', 'programming', 'help']
 ---
 
 Il est important de savoir [[Comment être excellent pour poser des questions sur le code|comment poser une bonne question]], mais il est aussi important de savoir comment aider les autres efficacement.
