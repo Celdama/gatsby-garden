@@ -8,3 +8,6 @@ Les choses qui n'ont pas de sens sont les meilleures opportunités d'apprentissa
 Le plus tu apprends, le plus tu retiens. 
 
 Les connaissances acquises précédemment servent de cadre à un nouvel apprentissage. 
+
+### Référence: 
+[[Eat that frog!]]

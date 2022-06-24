@@ -1,12 +1,12 @@
 ---
 title: Importance d'avoir une bonne routine de consommation de contenu
-tags: ['learning']
+tags: ['permanent-notes', 'learning']
 ---
 
 En étant développeur, il y aura toujours une partie de ton taff où tu auras besoin d'apprendre/rechercher quelque chose par toi même. 
 
 Pourquoi tu voudrais apprendre quelque chose de nouveau?
-- les pré requis d'un job
+- les pré-requis d'un job
 - un nouveau framework qui devient une option populaire
 - une nouvelle technologie
 - tu veux étendre tes connaissances
@@ -25,3 +25,6 @@ Tu dois avoir cette envie de maximiser ton temps pour absorder et en tirer le ma
 Un bon développeur est capable d'identifier une ressource de merde comparée à une de qualité.
 
 Tu n'as pas envie de passer 10 heures à apprendre quelque chose qui pourrait te prendre 4 heures.
+
+### Référence: 
+[[Les meilleurs moyens pour apprendre une nouvelle technologie x langage]]

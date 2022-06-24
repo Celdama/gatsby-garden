@@ -15,3 +15,6 @@ Apprendre quelque chose de quelqu'un c'est bien, mais c'est mieux si tu crées t
 Le taux d'apprentissage dans notre taff doit toujours être élevé, tu ne veux pas être dans une carrière où les personnes qui font ce travail depuis 2ans peuvent être aussi efficaces que celles qui le font depuis 20ans.
 
 Consacre [[Imperfection et apprentissage en public|10 heures à l'apprentissage et 10 minutes à le partager]].
+
+### Réference: 
+[[Learning talk on twitch]]

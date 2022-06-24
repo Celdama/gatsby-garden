@@ -13,3 +13,5 @@ Tu n'as pas à tout apprendre, l'oubli est essentiel pour l'apprentissage.
 
 Tous les apprentissages sont simplement la capacité à produire des résultats.
 
+### Référence:
+[[Learning talk on twitch]]

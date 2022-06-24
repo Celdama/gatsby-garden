@@ -10,8 +10,8 @@ Il existe des [[Signes du tutorial hell|signes]] que tu te trouves actuellement 
 
 On peut donc mettre en place certaines choses pour [[Eviter le tutorial hell|éviter le tutorial hell]].
 
+C'est lorsque tu es coincé en regardant/faisant des vidéos/cours sur un sujet pour continuer à apprendre. 
+On a l'impression qu'il y a toujours plus à apprendre, alors on continue à chercher.
 
-
-
-Is when you are stuck watching/doing videos/courses on a topic to keep learning. 
-It seems like there is always more to learn, so you keep searc
+### Référence:
+[[Les meilleurs moyens pour apprendre une nouvelle technologie x langage]]

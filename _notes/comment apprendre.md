@@ -13,3 +13,6 @@ Internalise ce que tu apprends en gardant en tête que le véritable apprentissa
 - la réflexion
 
 Et prends l'habitude d'écrire ce que tu lis dans ton propre langage, pratique la répétition espacée et prend des notes!!
+
+### Référence: 
+[[Eat that frog!]]

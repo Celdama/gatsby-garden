@@ -1,6 +1,6 @@
 ---
 title: Learning Talk on Twitch
-tags: ['reference-notes', 'learning', 'twitch']
+tags: ['literature-notes', 'learning', 'twitch-talk']
 ---
 
 L'apprentissage est tellement important, c'est l'âge d'or pour les personnes qui valorisent l'apprentissage, qui sont prêtes à investir en elles-mêmes et qui sont suffisament disciplinées pour agir par elles-mêmes.
