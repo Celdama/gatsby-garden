@@ -10,7 +10,7 @@ Tu es sortis du [[Le désert du désespoir|désert du désespoir]] et ta confian
 
 Tu sais faire une application, mais qu'est ce qu'il se passe sous la surface? Au début de cette phase, ton code ne sera pas très optimisé et tu ne seras pas capable de dire quelles parties de ton code sont terribles et lesquelles sont très bien.
 
-Tu es dans un phase bi-polaire. Tu te sens à moitié développeur accompli et de l'autre côté remplit de lacunes et de faiblesses. Plus tu vas progresser plus tu auras ce [[Gérer le syndrome de l'imposteur|sentiment d'incertitude]] à l'idée que quelqu'un te 'démasque' comme une fraude. 
+Tu es dans un phase bi-polaire. Tu te sens à moitié développeur accompli et de l'autre côté remplit de lacunes et de faiblesses. Plus tu vas progresser plus tu auras ce [[Le syndrome de l'imposteur|sentiment d'incertitude]] à l'idée que quelqu'un te 'démasque' comme une fraude. 
 
 Tu penses que tu devrais déjà être développeur, mais la distance entre ton code et un environnement de travail pro est encore grande. 
 
