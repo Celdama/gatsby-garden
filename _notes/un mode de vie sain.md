@@ -1,6 +1,6 @@
 ---
 title: Un mode de vie sain
-tags: [['permanent-notes', 'lifestyle']]
+tags: ['permanent-notes', 'lifestyle']
 ---
 
 Tu dois avoir un mode de vie équilibré, viser et t'efforcer de vivre sainement et d'apprécier la vie.

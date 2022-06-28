@@ -16,20 +16,7 @@ En restant adaptable et en apprenant de nouvelles compétences, tu as toutes les
 [[la mémoire de travail]]<br/>
 [[la mémoire à long terme]]<br/>
 [[comment créer une habitude d'apprentissage]]
-
-
-L'importance de la lecture
-- l'objectif de la lecture est d'apprendre
-- le véritable apprentissage ne demande pas seulement de la lecture
-	- lecture
-	- re-lecture
-	- exécution
-	- réflexion sur ce que tu as lu
-- tu ne peux pas lire livre après livre et espérer en apprendre plus
-- tu dois choisir soigneusement ce que tu lis
-	- il faut que tu sois lent mais consistent
-- pratiquer la répétition espacée et écrire le résumé des livres que tu as lu dans tes propres mots t'aide également à apprendre
-
+[[L'importance de la lecture dans l'apprentissage]]
 
 Le retention framework = méthode d'apprentissage
 - implique 5 étapes

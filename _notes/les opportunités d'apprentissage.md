@@ -10,4 +10,4 @@ Le plus tu apprends, le plus tu retiens.
 Les connaissances acquises précédemment servent de cadre à un nouvel apprentissage. 
 
 ### Référence: 
-[[Eat that frog!]]
+[[Learning talk on twitch]]
