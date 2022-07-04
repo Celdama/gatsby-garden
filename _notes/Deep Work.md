@@ -16,6 +16,6 @@ source: 'https://www.amazon.fr/Deep-Work-Retrouver-concentration-distractions/dp
 ## Part 2: Les règles
 - [[Travailler en profondeur]]
 - [[Embrasser l'ennui]]
-- [[Quitter les réseaux]]
+- [[Quitter les réseaux sociaux]]
 - [[Méditer de manière productive]]
 - [[Drainer les bas fonds]]

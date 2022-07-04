@@ -1,5 +1,5 @@
 ---
-L'importance de la lecture dans l'apprentissage
+title: L'importance de la lecture dans l'apprentissage
 tags: ['permanent-notes', 'learning', 'reading']
 ---
 
@@ -15,4 +15,4 @@ Ecrire le résumé des livres que tu as lus dans tes propres mots va t'aider à 
 
 
 ### Référence:
-[[Learning talk on twitch]]
+- [[Learning talk on twitch]]

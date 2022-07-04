@@ -15,3 +15,6 @@ Si chaque moment d'attente dans notre vie est soulagé par un coup d'oeil sur le
 - règle 2: s'entraîner à la concentration, fuir les distractions, embrasser l'ennuie
 
 > Don't take break from distraction, instead take breaks from focus. 
+
+### Référence:
+- [[Deep Work]]
