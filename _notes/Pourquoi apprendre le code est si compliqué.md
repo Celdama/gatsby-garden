@@ -1,7 +1,7 @@
 ---
 title: Pourquoi apprendre le code est si compliqué
-tags: ['Literature-notes', 'programming', 'learning']
-source: https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
+tags: ['reference-notes', 'programming', 'learning']
+source: 'https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/'
 ---
 
 L'apprentissage du code peut se résumer en 4 phases:

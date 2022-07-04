@@ -1,7 +1,6 @@
 ---
 title: C'est quoi un digital garden 
 tags: ['digital-garden', 'permanent-notes']
-source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
 Le digital garden est une métaphore pour penser à l'écriture et à la création qui se concentre moins sur le résultat et plus sur le processus.
@@ -14,3 +13,5 @@ En particulier parmi les personnes ayant des intérêts de niche, en tant que pr
 Les digital garden ne sont pas censés être le dernier mot sur un sujet. C'est un moyen plus lent et plus compliqué d'explorer internet. Ils ne sont pas par définition la source définitive de vérité, mais juste une source, ta source. 
 
 
+### Référence:
+- [[Digital Gardens let you cultivate your own little bit of internet]]

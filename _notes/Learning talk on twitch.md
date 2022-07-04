@@ -7,16 +7,16 @@ L'apprentissage est tellement important, c'est l'âge d'or pour les personnes qu
 
 En restant adaptable et en apprenant de nouvelles compétences, tu as toutes les chances de rester en tête. 
 
-[[c'est quoi l'apprentissage]]<br/>
-[[l'objectif de l'apprentissage]]<br />
-[[les opportunités d'apprentissage]]<br/>
-[[apprendre à apprendre]]<br/>
-[[pourquoi apprendre]]<br/>
-[[comment apprendre]]<br/>
-[[la mémoire de travail]]<br/>
-[[la mémoire à long terme]]<br/>
-[[comment créer une habitude d'apprentissage]]
-[[L'importance de la lecture dans l'apprentissage]]
+- [[c'est quoi l'apprentissage]]
+- [[l'objectif de l'apprentissage]]
+- [[les opportunités d'apprentissage]]
+- [[apprendre à apprendre]]
+- [[pourquoi apprendre]]
+- [[comment apprendre]]
+- [[la mémoire de travail]]
+- [[la mémoire à long terme]]
+- [[comment créer une habitude d'apprentissage]]
+- [[L'importance de la lecture dans l'apprentissage]]
 
 Le retention framework = méthode d'apprentissage
 - implique 5 étapes

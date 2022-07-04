@@ -1,6 +1,6 @@
 ---
 title: Comment penser comme un programmeur 
-tags: ['literature notes'] 
+tags: ['literature-notes', 'programming', 'thinking'] 
 source: https://www.youtube.com/watch?v=azcrPFhaY9k
 ---
 

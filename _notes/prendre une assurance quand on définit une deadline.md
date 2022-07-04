@@ -1,6 +1,6 @@
 ---
 title: Prendre une assurance quand on définit une deadline
-tags: ['permanent-notes', 'productivité']
+tags: ['permanent-notes', 'productivity']
 ---
 
 Peu importe le temps que tu estimes pour faire une tâche, ajoute 20% supplémentaire en assurance.

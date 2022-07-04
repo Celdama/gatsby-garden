@@ -1,9 +1,7 @@
 ---
 title: Ecrire est la seule chose qui compte
-tags: ['permanent-notes', 'note-taking', 'zettelkasten', 'todo']
+tags: ['permanent-notes', 'note-taking', 'zettelkasten']
 ---
-
-TODO: NOTES PRATIQUE DELIBEREE
 
 Rendre quelque chose de public signifie toujours, l'écrire pour qu'il puisse être lu. 
 

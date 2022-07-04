@@ -1,6 +1,6 @@
 ---
 title: 10 tips de clean code
-tags: ['literature-notes', 'programming', 'clean code']
+tags: ['reference-notes', 'programming', 'clean-code']
 source: 'https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/'
 ---
 

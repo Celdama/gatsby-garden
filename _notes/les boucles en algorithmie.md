@@ -1,6 +1,6 @@
 ---
 title: Les boucles en algorithmie
-tags: ['permanent-notes', 'algorithme', 'programming', 'boucles']
+tags: ['permanent-notes', 'algorithme', 'programming', 'loop']
 --- 
 
 Voici un exemple de comment aborder les boucles en algorithmie.

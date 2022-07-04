@@ -1,7 +1,6 @@
 ---
 title: Pourquoi créer ton digital garden
 tags: ['digital-garden', 'permanent-notes']
-source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
 Tu veux te créer un espace sur internet qui soit moins axé sur les connexions et les feedback, ne pas te soucier des followers, mais plutôt un espace de tranquillité et de [[Ludique, personnel et expérimental|découverte]], où [[Imperfection et apprentissage en public|l'imperfection]] est permise.
@@ -17,3 +16,6 @@ Tu peux choisir activement la piste de curiosité que tu souhaites suivre, plut�
 À l'ère du doom-scrolling et de la lassitude du zoom, les digital garden sont optimisites et porteur d'espoir. Ton jardin est, et sera, toujours en croissance à l'image de tes [[Croissance continue|connaissances]]
 
 C'est relaxant de s'asseoir à ton clavier et de faire un peu de gardening ❤️
+
+### Référence:
+- [[Digital Gardens let you cultivate your own little bit of internet]]

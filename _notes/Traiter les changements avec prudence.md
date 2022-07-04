@@ -1,6 +1,6 @@
 ---
 title: Traiter les changements avec prudence
-tags: ['permanent-notes', 'programming', 'clean code']
+tags: ['permanent-notes', 'programming', 'clean-code']
 ---
 
 L'application correcte de changement résume une grande partie de ce qui a été dit précédemment, comme commenter de manière significative et ne pas perturber l'indentation.
@@ -13,4 +13,4 @@ Cela implique principalement :
 -   respecter les normes en vigueur
 
 ### Réference:
-[[10 tips de clean code]]
+- [[10 tips de clean code]]

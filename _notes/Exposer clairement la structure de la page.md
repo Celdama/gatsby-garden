@@ -1,6 +1,6 @@
 ---
 title: Exposer clairement la structure de la page
-tags: ['permanent-notes', 'programming', 'clean code']
+tags: ['permanent-notes', 'programming', 'clean-code']
 ---
 
 En HTML travailler avec des containers c'est bien, mais travailler avec des containes qui ont un `id` représentatif c'est encore mieux.
@@ -26,4 +26,4 @@ En HTML travailler avec des containers c'est bien, mais travailler avec des cont
 La structure est ici évidente, c'est grâce à l'utilisation des `id` représentatif. C'est maintenant beaucoup plus facile d'ajouter du code, ou de supprimer des parties de ton site.
 
 ### Référence:
-[[10 tips de clean code]]
+- [[10 tips de clean code]]

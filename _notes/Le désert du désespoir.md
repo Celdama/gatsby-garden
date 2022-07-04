@@ -1,7 +1,6 @@
 ---
 title: Le désert du désespoir
 tags: ['permanent-notes', 'learning']
-source: '[[Pourquoi apprendre le code est si compliqué]]'
 ---
 
 ![desert](desert.png)
@@ -20,10 +19,13 @@ Il y a beaucoup plus à apprendre que ce que tu ne peux l'espérer. Même si dan
 
 Tu te sens perdu, jusqu'au moment où tu vas construire quelque chose qui ressemble et qui agit comme tu l'aurais espéré. Tu vas avec beaucoup de persévérance et une bonne boussole finir par lancer tes premiers 'vrais' projets et réaliser que tu commences enfin à 'comprendre'.
 
-### Survivre au désert du désespoir
+## Survivre au désert du désespoir
 
 Une fois à l'aise avec le debuggage ton plus gros problème va devenir la quantité importante de connaissance requisé et une perte totale de savoir comment tout apprendre.. Le désert du désespoir. Ici tu auras juste besoin d'une solide voie à suivre.
 
 1. Avoir un objectif fort pour ce que tu souhaites accompir, sans cela tu vas abandonner aux premières complications.
 2. Trouve une solide voie à suivre qui va te guider directement jusqu'à ton but.
 3. Reste concentré et évite les distractions. Quand le code devient difficile il faut que tu sois capable de continuer d'avancer, de rester concentré, focus! 
+
+### Référence: 
+- [[Pourquoi apprendre le code est si compliqué]]

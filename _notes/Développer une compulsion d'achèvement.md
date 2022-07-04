@@ -1,6 +1,6 @@
 ---
 title: Développer une compulsion d'achèvement
-tags: ['permanent-notes', 'productivity', 'todo']
+tags: ['permanent-notes', 'productivity']
 ---
 
 On a tous au fond de nous un 'besoin/compulsion' d'achèvement. On se sent réellement plus heureux et plus puissant lorsqu'on commence et termine une tâche, quelle qu'elle soit. On satisfait un besoin subconscient profond d'apporter une finalité à un travail ou un projet.

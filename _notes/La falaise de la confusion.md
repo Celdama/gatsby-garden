@@ -1,7 +1,6 @@
 ---
 title: La falaise de la confusion
 tags: ['permanent-notes', 'learning']
-source: '[[Pourquoi apprendre le code est si compliqué]]'
 ---
 
 Tu es ici au pic de l'éxubérance irrationnelle. Fais attention, tu dois passer au dessus d'un précipice qui a fait renoncer énormément d'apprentit développeur et leur mettant en tête la certitude, que *"le code est trop compliqué pour moi"*.
@@ -22,9 +21,12 @@ Si tu survies à cette phase, c'est souvent à ce moment là que tu vas décider
 
 ![falaise](falaise2.jpg)
 
-### Survivre à la falaise de la confusion
+## Survivre à la falaise de la confusion
 On doit tous connaître la falaise de la confusion, car la seule façon de devenir développeur est de développer. Tu peux toujours aller de tutoriels en tutoriels, mais tu ne feras que repousser l'inévitable. Tu risques d'entre dans le [[tutorial hell|Tutorial Hell]]. Tu devras un jour te sevrer des tutoriels et affronter le monde réel, tout seul.
 
 1. Travail avec quelqu'un, même un débutant. Tu seras surpris de voir comment il est facile de debugger à 2.
 2. Lire le code d'autre développeur pour être confortable avec les bonnes pratiques.
 3. Commence petit et construit toujours. Tu dois garder ton intêret pour les gros projets pour plus tard, tu dois être à l'aise pour debugger et chercher des questions à tes réponses.
+
+### Référence: 
+- [[Pourquoi apprendre le code est si compliqué]]

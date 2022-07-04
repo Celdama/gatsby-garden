@@ -1,9 +1,7 @@
 ---
 title: Laissez le travail nous faire avancer
-tags: ['permanent-notes', 'note-taking', 'zettelkasten', 'todo']
+tags: ['permanent-notes', 'note-taking', 'zettelkasten']
 ---
-
-TODO: FAIRE NOTE SUR ESPRIT DE CROISSANCE
 
 Parfois, nous avons l'impression que notre travail draine notre énergie et que nous ne pouvons avancer que si nous y mettons de plus en plus d'énergie. Mais parfois, c'est le contraire. Une fois dans le flux de travail, c'est comme si le travail lui-même prenait de l'élan, nous entraînant et parfois même nous donnant de l'énergie. C'est ce genre de dynamique que nous recherchons. 
 
@@ -23,7 +21,7 @@ L'indicateur le plus fiable de la réussite à long terme est d'avoir un état d
 
 Ceux qui craignent et évitent [[les feedbacks]] parce qu'ils pourraient nuire à l'image positive qu'ils ont d'eux-mêmes peuvent se sentir mieux à court terme, mais ils prendront rapidement du retard dans leurs performances réelles. 
 
-Adopter un esprit de croissance signifie prendre plaisir à changer pour le mieux (ce qui est surtout gratifiant intérieurement) au lieu de prendre plaisir à être félicité (ce qui est gratifiant extérieurement).
+[[Growth mindset|Adopter un esprit de croissance]] signifie prendre plaisir à changer pour le mieux (ce qui est surtout gratifiant intérieurement) au lieu de prendre plaisir à être félicité (ce qui est gratifiant extérieurement).
 
 Rechercher autant d'occasions d'apprendre que possible est la stratégie de croissance à long terme la plus fiable.
 

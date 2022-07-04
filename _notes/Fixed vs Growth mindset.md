@@ -9,4 +9,4 @@ Il existe 2 types de mindsets auxquels les gens peuvent adhèrer:
 
 [[Growth mindset|Pour les growth mindset]], Internet est un rêve, une aubaine. Il existe une infinité de site et de ressources pour les aider à faire évoluer leur esprits.
 
-Être bloqué sur quelque chose c'est évoluer. Peu importe combien de temps on est coincé avec ce concept ou ce projet,  [[tout ce qui compte c'est d'avoir l'audace|L'audace]] et la ténacité pour y arriver. C'est comme cela que le vrai apprentissage se produit.
+Être bloqué sur quelque chose c'est évoluer. Peu importe combien de temps on est coincé avec ce concept ou ce projet,  [[L'audace|tout ce qui compte c'est d'avoir l'audace]] et la ténacité pour y arriver. C'est comme cela que le vrai apprentissage se produit.

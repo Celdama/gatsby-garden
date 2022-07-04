@@ -1,6 +1,6 @@
 ---
 title: Eviter les commentaires abusifs
-tags: ['permanent-notes', 'programming', 'clean code']
+tags: ['permanent-notes', 'programming', 'clean-code']
 ---
 
 Les commentaires doivent être utilisés avec parcimonie. Quand on commente, l'objectif est d'expliquer en terme de variable et de résultats. Les commentaires ne sont pas fait pour :
@@ -17,4 +17,4 @@ Exemple de bons commentaires :
 -   des notifications rapides ou des étiquettes indiquant l'endroit où une modification récente a été apportée. `/* *added email validation procedure* **/*`
 
 ### Réference:
-[[10 tips de clean code]]
+- [[10 tips de clean code]]

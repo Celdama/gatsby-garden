@@ -1,7 +1,6 @@
 ---
 title: Bénéfice du digital garden 
 tags: ['permanent-notes', 'digital-garden', 'learning']
-source: '[[Digital Gardens let you cultivate your own little bit of internet]]'
 ---
 
 Les bénéfices du gardening sont multiples.
@@ -15,10 +14,7 @@ Le digital garden donne aux lecteurs un aperçu de ton écriture et de ton proce
 
 Les gardens font connaître leur imperfection au lecteur.
 
-
-
 Example digital gardens:
-
 - https://www.markbernstein.org/
 - https://tomcritchlow.com/wiki/
 - https://maggieappleton.com/library
@@ -26,3 +22,7 @@ Example digital gardens:
 - https://subpixel.space/
 - https://winnielim.org/
 - https://www.mentalnodes.com/
+
+
+### Référence:
+- [[Digital Gardens let you cultivate your own little bit of internet]]

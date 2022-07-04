@@ -63,5 +63,5 @@ Imagine dans 10 ans, comment pourrait être cet endroit, retraçant tout ton app
 	- le fait de mettre en place ce projet a plusieurs avantages concernant ta facon de consommer le contenu
 		- tu vas devenir plus sélectif dans ta consommation
 		- tu vas petit à petit reperer le contenu 'vide'
-		- par example au lieu de lire 10 articles et ne rien retenir, tu vas en lire 2/3 mais en tirer beaucoup de valeur pour toi, en retenant ce que tu souhaites retenir, et en nourissant ton endroit
+		- par exemple au lieu de lire 10 articles et ne rien retenir, tu vas en lire 2/3 mais en tirer beaucoup de valeur pour toi, en retenant ce que tu souhaites retenir, et en nourissant ton endroit
 	- l'objectif est aussi d'améliorer ta façon de consommer du contenu, et d'avoir connaissance d'autre endroit (d'autre dev) dans lesquelles tu peux trouver ton bonheur (c'est ton choix, ta volonté, pas du contenu mis sous tes yeux par la force d'un algorithme)

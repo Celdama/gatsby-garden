@@ -1,6 +1,6 @@
 ---
 title: Comment gérer et organiser sa boîte mail
-tags: ['fleeting-notes', 'organization']
+tags: ['fleeting-notes', 'organization', 'todo']
 source: 'https://matthieudesroches.com/articles/comment-organiser-sa-boite-mail'
 ---
 

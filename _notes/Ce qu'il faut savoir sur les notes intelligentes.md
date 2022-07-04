@@ -1,5 +1,5 @@
 ---
-title: Ce qu'il faut savoir
+title: Ce qu'il faut savoir sur les notes intelligentes
 tags: ['permanent-notes', 'note-taking']
 ---
 

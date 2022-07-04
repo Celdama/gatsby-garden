@@ -1,6 +1,6 @@
 ---
 title: La procrastination créative
-tags: ['permanente-notes', 'procrastination']
+tags: ['permanent-notes', 'procrastination']
 ---
 
 Tu ne peux pas toujours faire ce que tu as à faire, tu dois procrastiner par moment.

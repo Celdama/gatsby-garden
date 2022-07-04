@@ -1,6 +1,6 @@
 ---
 title: Les deadlines sont des excuses
-tags: ['permanent-notes', 'productivité']
+tags: ['permanent-notes', 'productivity']
 ---
 
 De nombreuses personnes affirment qu'elles travaillent mieux sous la pression des deadlines. Malheureusement, des années de recherches indiquent que c'est rarement vrai.
