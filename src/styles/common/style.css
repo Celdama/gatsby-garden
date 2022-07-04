@@ -34,11 +34,11 @@ html[data-theme="dark"], body.dark {
 
     html[data-theme="light"], body.light {
 	    --bg-main: #FFFFFF;
-        --bg-sub: #FAFAFC;
-        --text-main: #18181C;
-        --text-sub: #5D5D67;
-        --link: #2380ED;
-        --border: #E5E5E5;
+      --bg-sub: #FAFAFC;
+      --text-main: #18181C;
+      --text-sub: #5D5D67;
+      --link: #2380ED;
+      --border: #E5E5E5;
   } 
 }
 
