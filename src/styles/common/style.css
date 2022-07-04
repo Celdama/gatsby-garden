@@ -49,7 +49,7 @@ html {
 
 body {
     counter-reset: sidenote-counter; 
-    font-family: 'Consolas';
+    font-family: 'Consolas', sans-serif;
 }
 
 .container {
