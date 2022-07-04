@@ -5,7 +5,7 @@ tags: ['permanent-notes', 'fails', 'programming']
 
 Si tu n'aimes pas échouer, la programmation n'est sûrement pas faite pour toi. Sois en sûr.
 
-Les échecs sont des opportunités pour nous d'évoluer, spécialement en programmation. 
+[[Développer son cerveau avec l'échec|Les échecs sont des opportunités pour nous d'évoluer]], spécialement en programmation. 
 
 C'est une part normale de la vie d'un développeur. Que tu sois débutant/expérimenté tu rencontres toujours des échecs, des erreurs, des bugs, etc..
 

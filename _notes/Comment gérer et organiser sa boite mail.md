@@ -11,7 +11,6 @@ source: 'https://matthieudesroches.com/articles/comment-organiser-sa-boite-mail'
 	- soit on reçoit TROP de mail par rapport à notre capacité à les traiter
 	- soit on a une mauvaise méthode de traitement (perte de temps)
 
-
 5 erreurs à ne pas faire
 - laisser la boîte ouverte toute la journée
 	- tu risques d'être interrompu dans ton travail à chaque nouveau message -> source de distraction qui te fera perdre ton focus
