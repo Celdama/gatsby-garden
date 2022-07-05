@@ -9,7 +9,7 @@ Si tu n'aimes pas échouer, la programmation n'est sûrement pas faite pour toi.
 
 C'est une part normale de la vie d'un développeur. Que tu sois débutant/expérimenté tu rencontres toujours des échecs, des erreurs, des bugs, etc..
 
-C'est donc juste le moment de [[comment débugger|debugger]], rien de plus. Ne remets pas tout en question, ne te remets pas en question. 
+C'est donc juste le moment de [[comment debugger|debugger]], rien de plus. Ne remets pas tout en question, ne te remets pas en question. 
 
 Pose toi la question suivante: *"Est-ce que j'ai correctement dit à l'ordinateur quoi faire, de la bonne manière?"* OU *"Est-ce que j'ai dis à l'ordinateur de faire la mauvaise chose?"*.
 

@@ -12,7 +12,7 @@ Vaincre la procrastination et de nombreux changements positifs apparaîtront pro
 A force de procrastiner, on finit par se raconter des histoires. Que nous ne sommes pas bon dans cette matière donc à quoi bon l'étudier. Se dire que la procrastination est une caractéristique innée et immuable. Pourquoi la combattre?
 
 
-[[c'est quoi l'apprentissage|Un bon apprentissage]] se fait petit à petit, jour après jour, il faut donc éviter la procrastination car cela ne construit pas des réseaux neuronaux stable. Plus on procrastine, plus cela devient douloureux de se remettre au travail. 
+[[C'est quoi l'apprentissage|Un bon apprentissage]] se fait petit à petit, jour après jour, il faut donc éviter la procrastination car cela ne construit pas des réseaux neuronaux stable. Plus on procrastine, plus cela devient douloureux de se remettre au travail. 
 
 
 ### Référence: 

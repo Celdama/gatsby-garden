@@ -9,4 +9,4 @@ Au final, tu as passé tout ce temps à marcher vers un dollar, mais tu n'as rie
 
 C'est ce qui peut arriver avec les sides projects ou l'apprentissage d'une nouvelle techno/langage, tu es excité, tu commences à travailler dessus. Mais ensuite, tu as une nouvelle idée de side project ou d'une nouvelle techno à apprendre et tu recommences cette boucle encore et encore. 
 
-Le shiny dollar syndrom peut te mener dans [[Tutorial Hell|le tutorial hell]]
+Le shiny dollar syndrom peut te mener dans [[Tutorial Hell|le tutorial hell]].

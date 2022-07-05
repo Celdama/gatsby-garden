@@ -1,9 +1,9 @@
 ---
-title: Savori utiliser la pensée focalisée et diffuse
+title: Savoir utiliser la pensée focalisée et diffuse
 tags: ['permanent-notes', 'thinking', 'learning']
 ---
 
-Le point essentiel est que lorsque l'on apprend quelque chose de nouveai, surtout si c'est quelque chose d'un peu complexe, notre esprit doit être capable d'aller et venir entre ces deux modes de pensée distinct; [[la pensée focalisée]] et [[la pensée diffuse]].
+Le point essentiel est que lorsque l'on apprend quelque chose de nouveau, surtout si c'est quelque chose d'un peu complexe, notre esprit doit être capable d'aller et venir entre ces deux modes de pensée distinct; [[la pensée focalisée]] et [[la pensée diffuse]].
 
 C'est ce qui nous aide à apprendre de manière efficace, les deux modes de pensées nous aident à apprendre, mais de façon très différente.
 

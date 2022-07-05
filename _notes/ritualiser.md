@@ -5,7 +5,7 @@ tags: ['permanent-notes', 'productivity']
 
 Il faut s'entraîner à être organisé. 
 
-Pour tirer le meilleur des sessions de deep work, il faut construire des rituels d'un haut niveau de rigueur. 
+Pour tirer le meilleur des sessions de deep work, [[L'importance de développer un rituel|il faut construire des rituels d'un haut niveau de rigueur]]. 
 
 Notre rituel doit aborder certaines questions: 
 - où on travail et pour combien de temps? 

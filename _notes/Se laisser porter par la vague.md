@@ -5,7 +5,7 @@ tags: ['permanent-notes', 'productivity']
 
 Une de façons les plus efficaces d'apprendre est d'utiliser des techniques mentales qui sont stimulantes et motivantes. 
 
-[[c'est quoi l'apprentissage|Lors de l'apprentissage]] en générale, il est tout à fait normal de ressentir une appréhension avant de se lancer dans une session d'apprentissage, même pour un sujet qu'on apprécie. Ce qui compte c'est la manière dont on va gérer cet inconfort. Se dire _Arrête de perdre ton temps et vas-y, une fois que tu auras commencé, ça ira mieux_.
+[[C'est quoi l'apprentissage|Lors de l'apprentissage]] en générale, il est tout à fait normal de ressentir une appréhension avant de se lancer dans une session d'apprentissage, même pour un sujet qu'on apprécie. Ce qui compte c'est la manière dont on va gérer cet inconfort. Se dire _Arrête de perdre ton temps et vas-y, une fois que tu auras commencé, ça ira mieux_.
 
 Si on évite certaines tâches parce qu'elles nous mettent mal à l'aise, il existe une façon d'aborder les choses autrement. Il s'agit d'apprendre à focaliser son attention sur le **processus** et non sur le **produit final**. 
 

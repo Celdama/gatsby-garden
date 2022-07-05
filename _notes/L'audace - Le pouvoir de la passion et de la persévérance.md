@@ -7,4 +7,4 @@ source: 'https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passio
 - [[Le QI n'est pas synonyme de succès]]
 - [[Aucun concepts n'est impossible à comprendre]]
 - [[L'audace]]
-- [[L'esprit d'évolution]]
+- [[Growth mindset]]

@@ -3,7 +3,7 @@ title: Plonger dans la mémoire
 tags: ['permanent-notes', 'memory']
 ---
 
-Mémoriser n'est [[c'est quoi l'apprentissage|qu'une étape de l'apprentissage]] et du développement d'une expertise, mais c'est souvent une étape essentielle.
+Mémoriser n'est [[C'est quoi l'apprentissage|qu'une étape de l'apprentissage]] et du développement d'une expertise, mais c'est souvent une étape essentielle.
 
 On dispose de systèmes de mémoire visuelle et spatiale exceptionnels qui peuvent faciliter la formation d'une partie de nos souvenirs à long terme. 
 

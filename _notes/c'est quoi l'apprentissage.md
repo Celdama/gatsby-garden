@@ -15,7 +15,7 @@ Tous les apprentissages sont simplement la capacité à produire des résultats.
 
 Tout repose sur le cerveau, il s'agit du système le plus complexe de l'univers tel que nous le connaissons. Il y a des zones du cerveau qui sont très actives quand on interragit avec le monde mais disparaissent lorsque l'on est au repos et inversement. 
 
-L'apprentissage change la structure de notre cerveau. Intriguant de se dire que nous ne sommes pas la même personne après une nuit de sommeil ou même une sieste. Le sommeil est un allié de taille dans toute quête d'apprentissage.
+L'apprentissage change la structure de notre cerveau. Intriguant de se dire que nous ne sommes pas la même personne après une nuit de sommeil ou même une sieste. [[Le sommeil|Le sommeil est un allié de taille dans toute quête d'apprentissage]].
 
 ### Références:
 - [[Learning talk on twitch]]

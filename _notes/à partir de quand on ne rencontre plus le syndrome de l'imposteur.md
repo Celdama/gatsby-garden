@@ -5,7 +5,9 @@ tags: ['permanent-notes', 'syndrome']
 
 La réponse est simple, jamais! 
 
-Parfois le plus expérimenté tu es, le plus tu ressens ce syndrome. C'est chaque fois que tu sors de ta zone de confort, que tu as plus de responsabilités, que tu as plus d'attentes que tu peux faire face à ce syndrome.
+Parfois le plus expérimenté tu es, le plus tu ressens ce syndrome. 
+
+C'est chaque fois que tu sors de ta zone de confort, que tu as plus de responsabilités, que tu as plus d'attentes que tu peux faire face à ce syndrome, donc dès que tu te retrouves dans [[C'est quoi l'apprentissage|une phase d'apprentissage]] tu peux potentiellement faire face à ce syndrome. 
 
 ### Référence: 
 [[Gérer le syndrome de l'imposteur]]

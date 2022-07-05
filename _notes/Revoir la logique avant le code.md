@@ -3,7 +3,7 @@ title: Revoir la logique avant le code
 tags: ['permanent-notes', 'programming', 'clean-code']
 ---
 
-Avant de faire appel au debugger, quelques diagramme de flow ou écrire du [[Pseudo code|pseudo-code]].
+Avant de faire appel au debugger, quelques diagramme de flow ou écrire du [[Pseudo code|pseudo-code]] peuvent grandement aider. 
 
 Ecrire clarifie les doutes et les insécurité à propos de fonctionnalité complexe, et peuvent te sauver beaucoup de temps. 
 

@@ -7,7 +7,7 @@ source: 'https://www.coursera.org/learn/learning-how-to-learn'
 ## Qu'est ce que l'apprentissage
 - [[Pensée focalisée vs. pensée diffuse]]
 - [[Savoir utiliser la pensée focalisée et diffuse]]
-- [[c'est quoi l'apprentissage]]
+- [[C'est quoi l'apprentissage]]
 - [[La pratique rend permanent]]
 - [[Introduction à la mémoire]]
 - [[L'importance du sommeil dans l'apprentissage]]

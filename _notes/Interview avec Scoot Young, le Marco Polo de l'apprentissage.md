@@ -16,7 +16,7 @@ Le cerveau n'est pas doué pour apprendre des notions abstraites, il se débroui
 Il faut donc essayer de trouver des analogies simple, des métaphores, et les tester. Chercher à voir comment elle s'applique au concept qu'on essaie d'apprendre. Il s'agit en quelque sorte de trouver des exemples ou des histoires qui nous sont familiers, puis de les assembler comme les pièces d'un puzzle, de trouver la bonne pièce.
 
 ## Avoir des objectifs définis dans le temps
-[[c'est quoi l'apprentissage]] sans se fixer d'objectif concret et sans motivation particulière, engendre une chute de l'engagement et on n'accomplit pas grand chose. Ce fixer une période de temps pour apprendre tel ou tel chose est très bénéfique. 
+[[C'est quoi l'apprentissage]] sans se fixer d'objectif concret et sans motivation particulière, engendre une chute de l'engagement et on n'accomplit pas grand chose. Ce fixer une période de temps pour apprendre tel ou tel chose est très bénéfique. 
 
 C'est souvent ainsi qu'on peut transformer un projet ennuyeux en quelque chose de fascinant pour soi, parce que ça devient un défi spécifique et concret. 
 

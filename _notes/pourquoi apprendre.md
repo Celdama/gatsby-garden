@@ -3,7 +3,7 @@ title: Pourquoi apprendre
 tags: ['permanent-notes', 'learning']
 ---
 
-Être un perpétuel apprenant est la compétence la plus importante, tu  dois [[apprendre à apprendre|savoir comment apprendre tout ce que tu veux]] (internet life), tu dois savoir apprendre rapidement car la plupart des choses que tu apprends aujourd'hui seront obsolètes dans quelques années.
+Être un perpétuel apprenant est la compétence la plus importante, tu  dois savoir comment apprendre tout ce que tu veux (internet life), tu dois savoir apprendre rapidement car la plupart des choses que tu apprends aujourd'hui seront obsolètes dans quelques années.
 
 Tu dois adopter l'esprit de l'apprenant perpetuel. L'apprentissage est ton seul avantage, arrête d'apprendre et tu perds ton avantage.
 

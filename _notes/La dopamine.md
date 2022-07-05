@@ -3,7 +3,7 @@ title: La dopamine
 tags: ['permanent-notes', 'brain']
 ---
 
-C'est cette substance chimique qui contrôle la motivation. Les neurones à dopamine font partie du système [[c'est quoi l'apprentissage|contrôlant l'apprentissage]] par conditionnement. 
+C'est cette substance chimique qui contrôle la motivation. Les neurones à dopamine font partie du système [[C'est quoi l'apprentissage|contrôlant l'apprentissage]] par conditionnement. 
 
 La dopamine est libérée par ces neurones lorsqu'on reçoit une récompense imprévue.
 

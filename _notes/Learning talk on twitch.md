@@ -5,12 +5,13 @@ tags: ['literature-notes', 'learning', 'twitch-talk']
 
 L'apprentissage est tellement important, c'est l'âge d'or pour les personnes qui valorisent l'apprentissage, qui sont prêtes à investir en elles-mêmes et qui sont suffisament disciplinées pour agir par elles-mêmes.
 
+Peu de gens réalisent qu'apprendre à apprendre est un skill en lui-même. En tant que développeur, si tu n'aimes pas apprendre tu n'es probablement pas au bon endroit.
+
 En restant adaptable et en apprenant de nouvelles compétences, tu as toutes les chances de rester en tête. 
 
-- [[c'est quoi l'apprentissage]]
+- [[C'est quoi l'apprentissage]]
 - [[l'objectif de l'apprentissage]]
 - [[les opportunités d'apprentissage]]
-- [[apprendre à apprendre]]
 - [[pourquoi apprendre]]
 - [[comment apprendre]]
 - [[la mémoire de travail]]

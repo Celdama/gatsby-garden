@@ -15,7 +15,7 @@ Le recours à une séance d'étude ultérieure pour répéter ce qu'on tente d'a
 
 Il est bien facile de se répéter ce que l'on sait déjà parfaitement. Cette facilité peut d'ailleur entretenir [[L'illusion de la compétence|l'illusion de la compétence]], soit l'illusion que l'on maîtrise l'ensemble d'un sujet, alors que l'on ne maîtrise que la partie la plus facile. 
 
-Il vaut mieux se concentrer délibérément sur ce qu'on trouve le plus difficile, afin d'équilibrer [[c'est quoi l'apprentissage|notre apprentissage]]. On appelle cela [[La pratique délibérée]], c'est le choix de se concentrer sur ce qui est le plus difficile. 
+Il vaut mieux se concentrer délibérément sur ce qu'on trouve le plus difficile, afin d'équilibrer [[C'est quoi l'apprentissage|notre apprentissage]]. On appelle cela [[La pratique délibérée]], c'est le choix de se concentrer sur ce qui est le plus difficile. 
 
 Tout ceci est relié au phénomène connu sous le nom de [[Le phénomène Einstellung|phénomène d'Einstellung]].
 

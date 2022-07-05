@@ -3,7 +3,7 @@ title: Jongler entre la vie et l'apprentissage
 tags: ['permanent-notes', 'productivity', 'learning']
 ---
 
-Il est judicieux d'intercaller les choses à faire de [[c'est quoi l'apprentissage|l'apprentissage]] avec les choses de la vie en générale. 
+Il est judicieux d'intercaller les choses à faire de [[C'est quoi l'apprentissage|l'apprentissage]] avec les choses de la vie en générale. 
 
 Un bon moyen de garder en ligne de mire ce qu'on essaie d'apprendre et d'accomplir, est de faire, une fois par semaine, dans l'agenda une courte liste de nos tâches clés; puis chaque jour, sur une autre page, d'écrire la liste des tâches qu'on estime pouvoir entreprendre ou compléter en ce jour-là. 
 

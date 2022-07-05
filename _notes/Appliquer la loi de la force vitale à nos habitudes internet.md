@@ -5,7 +5,7 @@ tags: ['permanent-notes', 'productivity']
 
 Ne pas utiliser Twitter avec le mindset du 'any-benefit', mais au contraire avec celui de l'artisan et de ses outils.
 
-Il y a une stratégie à suivre pour déterminer quels outils comptent vraiement pour nous:
+Il y a une stratégie à suivre pour déterminer quels outils comptent vraiment pour nous:
 1. identifier le plus gros objectif de notre vie pro et perso.
 2. diviser ces deux objectif en sous-objectifs.
 3. une fois les sous-objectifs définis, lister deux ou trois activités importantes qui vont nous aider à les atteindres.
